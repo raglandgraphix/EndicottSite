@@ -1,0 +1,244 @@
+[
+    
+    {
+        "id":1,
+        "fullName":"Copper_Canyon",
+        "descriptionTitle":"The Warm Hues of Copper Canyon Brick",
+        "description":"Endicott Copper Canyon brick captures the beauty of the natural world with its earthy brown tones and subtle red undertones, adding warmth and character to any facade. ",
+        "mainImage":"https://endicottfiles.com/Copper_Canyon_Invisi-Lug_Paver.png",
+        "colorGroup":["Tan","Brown","Orange"],
+        "altTag":"Copper Canyon Ironspot colored brick, in the colorGroup Tan Brick, Brown Brick, Orange Brick. The product is clay brick.",
+        "textures":[
+            {
+                "texture":"Wirecut",
+                "image":"https://endicottfiles.com/Copper_Canyon_Invisi-Lug_Paver.png",
+                "fallbackImage":"/assets/FaceBrick/Colors/Copper_Canyon/Copper-Canyon-Smooth-Facebrick-Short.jpg",
+                "fallbackLargeImage":"/assets/FaceBrick/Colors/Copper_Canyon/Copper-Canyon-Smooth-Facebrick-Large.jpg",
+                "largeImage":"https://endicottfiles.com/Copper_Canyon_Invisi-Lug_Paver.png",
+                "artx":"https://architextures.org/create/share/48627?appid=1125",
+                "sizes":["2-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_4\"_X_8\"_INVISI-LUG®","2-1/4\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_X_4\"_X_8\"_Permeable","Step_Tread"],
+                "alt":"Image of Copper Canyon in Wirecut texture"
+                 
+            }
+        ],
+        "productLine":"Paver",
+        "projects":[{"photo":["Citadel","SanClemente"]},{"video":[]}]    
+        },
+    {
+        "id":2,
+        "fullName":"Coppertone",
+        "descriptionTitle":"Endicott Coppertone Brick: Light Brown with Timeless Appeal",
+        "description":"Endicott Coppertone brick offers a warm and inviting light brown hue, perfect for creating classic or contemporary facades. This versatile color blends seamlessly with a variety of architectural styles, adding a touch of understated elegance to any project.",
+        "mainImage":"https://endicottfiles.com/Coppertone_Invisi-Lug_Paver.png",
+        "colorGroup":["Tan","Brown","Orange"],
+        "altTag":"Coppertone Ironspot colored brick, in the colorGroup Tan Brick, Brown Brick, Orange Brick. The product is clay brick.",
+        "textures":[
+            {
+                "texture":"Wirecut",
+                "image":"https://endicottfiles.com/Coppertone_Invisi-Lug_Paver.png",
+                "fallbackImage":"/assets/FaceBrick/Colors/Coppertone/Coppertone-Smooth-Facebrick-Short.jpg",
+                "fallbackLargeImage":"/assets/FaceBrick/Colors/Coppertone/Coppertone-Smooth-Facebrick-Large.jpg",
+                "largeImage":"https://endicottfiles.com/Coppertone_Invisi-Lug_Paver.png",
+                "artx":"https://architextures.org/create/share/48629?appid=1125",
+                "sizes":["1-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_4\"_X_8\"_INVISI-LUG®","2-5/8\"_X_4\"_X_8\"_INVISI-LUG®","2-1/4\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-5/8\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_X_4\"_X_8\"_Permeable","2-5/8\"_X_4\"_X_8\"_Permeable","2-1/4\"_X_3-5/8\"_X_11-5/8\"_Plank","2-1/4\"_X_4\"_X_12\"_INVISI-LUG®_Plank","2-1/4\"_X_4\"_X_12\"_Relieved_Edge_Lugged_Plank","Step_Tread"],
+                "alt":"Image of Coppertone in Wirecut texture"
+            }
+        ],
+        "productLine":"Paver",
+        "projects":[{"photo":["Citadel","SanClemente","CastleRock","CherryCreek"]},{"video":[]}]               
+    },
+    {
+        "id":3,
+        "fullName":"Medium_Ironspot_77",
+        "descriptionTitle":"Endicott Medium Ironspot #77: Deep Brown with Timeless Character",
+        "description":"Endicott Medium Ironspot #77 brick offers a rich, deep brown hue with subtle ironspots that add depth and complexity. This classic color creates a sense of warmth and permanence, making it an ideal choice for traditional and contemporary designs.",
+        "mainImage":"https://endicottfiles.com/Medium_Ironspot_77_Invisi-Lug_Paver.png",
+        "colorGroup":["Tan","Brown","Orange"],
+        "altTag":"Medium Ironspot #77 colored brick, in the colorGroup Tan Brick, Brown Brick, Orange Brick. The product is clay brick.",
+        "textures":[
+            {
+                "texture":"Wirecut",
+                "image":"https://endicottfiles.com/Medium_Ironspot_77_Invisi-Lug_Paver.png",
+                "fallbackImage":"/assets/FaceBrick/Colors/Medium_Ironspot_77/Medium-Ironspot-77-Smooth-Facebrick-Short.jpg",
+                "fallbackLargeImage":"/assets/FaceBrick/Colors/Medium_Ironspot_77/Medium_Ironspot_77-Smooth-Facebrick-Large.jpg",
+                "largeImage":"https://endicottfiles.com/Medium_Ironspot_77_Invisi-Lug_Paver.png",
+                "artx":"https://architextures.org/create/share/48633?appid=1125",
+                "sizes":["1-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_4\"_X_8\"_INVISI-LUG®","2-5/8\"_X_4\"_X_8\"_INVISI-LUG®","2-1/4\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-5/8\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_X_4\"_X_8\"_Permeable","2-5/8\"_X_4\"_X_8\"_Permeable","2-1/4\"_X_3-5/8\"_X_11-5/8\"_Plank","2-1/4\"_X_4\"_X_12\"_INVISI-LUG®_Plank","2-1/4\"_X_8\"_X_8\"_INVISI-LUG®","2-1/4\"_X_8\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_Handicap_Detectable_Warning","2-1/4\"_Nominal_Handicap_Detectable","2-1/4\"_X_4\"_X_12\"_Relieved_Edge_Lugged_Plank","Step_Tread"],
+                "alt":"Image of Medium Ironspot #77 in Wirecut texture"
+                  
+            }
+        ],
+        "productLine":"Paver",
+        "projects":[{"photo":["CreightonRoundAbout","Villanova","Citadel","SanClemente","CastleRock","CherryCreek","HarleyStreetscape"]},{"video":[]}]  
+                      
+    },
+    {
+        "id":4,
+        "fullName":"Medium_Ironspot_46",
+        "descriptionTitle":"Endicott Medium Ironspot #46: A Timeless Hue with a Touch of Distinction",
+        "description":"Endicott Medium Ironspot #46 brick captivates with its rich, burgundy hue, accented by subtle ironspots that add depth and character. This striking color creates a sense of timeless elegance, perfect for making a bold statement in both traditional and contemporary designs.",
+        "mainImage":"https://endicottfiles.com/Medium_Ironspot_46_Invisi-Lug_Paver.png",
+        "colorGroup":["Red","Burgundy"],
+        "altTag":"Medium Ironspot #46 colored brick, in the colorGroup Red Brick, Burgundy Brick. The product is clay brick.",
+        "textures":[
+            {
+                "texture":"Wirecut",
+                "image":"https://endicottfiles.com/Medium_Ironspot_46_Invisi-Lug_Paver.png",
+                "fallbackImage":"/assets/FaceBrick/Colors/Medium-Ironspot-46/Medium-Ironspot-46-Smooth-Facebrick-Short.jpg",
+                "fallbackLargeImage":"/assets/FaceBrick/Colors/Medium-Ironspot-46/Medium-Ironspot-46-Smooth-Facebrick-Large.jpg",
+                "largeImage":"https://endicottfiles.com/Medium_Ironspot_46_Invisi-Lug_Paver.png",
+                "sizes":["1-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_4\"_X_8\"_INVISI-LUG®","2-5/8\"_X_4\"_X_8\"_INVISI-LUG®","2-1/4\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-5/8\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_X_4\"_X_8\"_Permeable","2-5/8\"_X_4\"_X_8\"_Permeable","2-1/4\"_X_3-5/8\"_X_11-5/8\"_Plank","2-1/4\"_X_4\"_X_12\"_INVISI-LUG®_Plank","2-1/4\"_X_8\"_X_8\"_INVISI-LUG®","2-1/4\"_X_8\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_Handicap_Detectable_Warning","2-1/4\"_Nominal_Handicap_Detectable","2-1/4\"_X_4\"_X_12\"_Relieved_Edge_Lugged_Plank","Step_Tread"],
+                "artx":"https://architextures.org/create/share/48647?appid=1125",
+                "alt":"Image of Medium Ironspot #46 in Wirecut texture"
+                 
+            }
+        ],
+        "productLine":"Paver",
+        "projects":[{"photo":["Villanova","Citadel","SanClemente","CastleRock","CherryCreek","HarleyStreetscape","DublinStreetscape"]},{"video":[]}]               
+    },
+    {
+        "id":5,
+        "fullName":"Dark_Ironspot",
+        "descriptionTitle":"Endicott Dark Ironspot: Sophistication in Deep Plum Tones",
+        "description":"Endicott Dark Ironspot brick exudes sophistication with its deep plum hues, adding a touch of elegance and refinement to any design. This unique color creates a striking contrast with lighter elements, making it an ideal choice for modern and traditional projects alike.",
+        "mainImage":"https://endicottfiles.com/Dark_Ironspot_Invisi-Lug_Paver.png",
+        "colorGroup":["Black","Plum"],
+        "altTag":"Dark Ironspot colored brick, in the colorGroup Black Brick, Plum Brick. The product is clay brick.",
+        "textures":[
+            {
+                "texture":"Wirecut",
+                "image":"https://endicottfiles.com/Dark_Ironspot_Invisi-Lug_Paver.png",
+                "fallbackImage":"/assets/FaceBrick/Colors/Dark-Ironspot/Dark-Ironspot-Smooth-Facebrick-Short.jpg",
+                "fallbackLargeImage":"/assets/FaceBrick/Colors/Dark-Ironspot/Dark-Ironspot-Smooth-Facebrick-Large.jpg",
+                "largeImage":"https://endicottfiles.com/Dark_Ironspot_Invisi-Lug_Paver.png",
+                "sizes":["1-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_4\"_X_8\"_INVISI-LUG®","2-5/8\"_X_4\"_X_8\"_INVISI-LUG®","2-1/4\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-5/8\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_X_4\"_X_8\"_Permeable","2-5/8\"_X_4\"_X_8\"_Permeable","2-1/4\"_X_3-5/8\"_X_11-5/8\"_Plank","2-1/4\"_X_4\"_X_12\"_INVISI-LUG®_Plank","2-1/4\"_X_8\"_X_8\"_INVISI-LUG®","2-1/4\"_X_8\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_Handicap_Detectable_Warning","2-1/4\"_Nominal_Handicap_Detectable","2-1/4\"_X_4\"_X_12\"_Relieved_Edge_Lugged_Plank","Step_Tread"],
+                "artx":"https://architextures.org/create/share/48658?appid=1125",
+                "alt":"Image of Dark Ironspot in Wirecut texture"
+            }
+        ],
+        "productLine":"Paver",
+        "projects":[{"photo":["Villanova","Citadel","SanClemente","CastleRock","CherryCreek","DublinStreetscape"]},{"video":[]}]
+                                     
+    },
+    {
+        "id":6,
+        "fullName":"Manganese_Ironspot",
+        "descriptionTitle":"Endicott's Desert Ironspot Dark Brick: Bold Sophistication for Architectural Statements",
+        "description":"Make a statement with Endicott's Desert Ironspot Dark brick. Its rich, light brown tones offer a bold contrast, while the characteristic ironspots provide depth and texture. This striking brick from Endicott is ideal for architects seeking a sophisticated and enduring facade that commands attention. ",
+        "mainImage":"https://endicottfiles.com/Manganese_Ironspot_Invisi-Lug_Paver.png",
+        "colorGroup":["Black","Plum"],
+        "altTag":"Manganese Ironspot colored brick, in the colorGroup Black Brick, Plum Brick. The product is clay brick.",
+        "textures":[
+            {
+                "texture":"Wirecut",
+                "image":"https://endicottfiles.com/Manganese_Ironspot_Invisi-Lug_Paver.png",
+                "fallbackImage":"/assets/FaceBrick/Colors/Desert_Ironspot_Light/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+                "fallbackLargeImage":"/assets/FaceBrick/Colors/Desert_Ironspot_Light/Desert-Ironspot-Light-Smooth-Facebrick-Modular.jpg",
+                "largeImage":"https://endicottfiles.com/Manganese_Ironspot_Invisi-Lug_Paver.png",
+                "artx":"",
+                "sizes":["1-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_4\"_X_8\"_INVISI-LUG®","2-5/8\"_X_4\"_X_8\"_INVISI-LUG®","2-1/4\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-5/8\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_X_4\"_X_8\"_Permeable","2-5/8\"_X_4\"_X_8\"_Permeable","2-1/4\"_X_3-5/8\"_X_11-5/8\"_Plank","2-1/4\"_X_4\"_X_12\"_INVISI-LUG®_Plank","2-1/4\"_X_8\"_X_8\"_INVISI-LUG®","2-1/4\"_X_8\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_Handicap_Detectable_Warning","2-1/4\"_Nominal_Handicap_Detectable","2-1/4\"_X_4\"_X_12\"_Relieved_Edge_Lugged_Plank","Step_Tread"],
+                "alt":"Image of Manganese Ironspot in Wirecut texture"
+                 
+            }
+        ],
+        "productLine":"Paver",
+        "projects":[{"photo":["CreightonRoundAbout","Villanova","CherryCreek","HarleyStreetscape","DublinStreetscape"]},{"video":[]}]                
+    },
+    {
+        "id":7,
+        "fullName":"Rose_Blend",
+        "descriptionTitle":"Endicott's Desert Ironspot Dark Brick: Bold Sophistication for Architectural Statements",
+        "description":"Make a statement with Endicott's Desert Ironspot Dark brick. Its rich, light brown tones offer a bold contrast, while the characteristic ironspots provide depth and texture. This striking brick from Endicott is ideal for architects seeking a sophisticated and enduring facade that commands attention. ",
+        "mainImage":"https://endicottfiles.com/Rose_Blend_Invisi-Lug_Paver.png",
+        "colorGroup":["Red","Burgundy"],
+        "altTag":"Rose Blend Colored Brick, in the colorGroup Red Brick, Burgundy Brick. The product is clay brick.",
+        "textures":[
+            {
+                "texture":"Wirecut",
+                "image":"https://endicottfiles.com/Rose_Blend_Invisi-Lug_Paver.png",
+                "fallbackImage":"/assets/FaceBrick/Colors/Desert_Ironspot_Light/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+                "fallbackLargeImage":"/assets/FaceBrick/Colors/Desert_Ironspot_Light/Desert-Ironspot-Light-Smooth-Facebrick-Modular.jpg",
+                "largeImage":"https://endicottfiles.com/Rose_Blend_Invisi-Lug_Paver.png",
+                "artx":"https://architextures.org/create/share/48795?appid=1125",
+                "sizes":["1-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_4\"_X_8\"_INVISI-LUG®","2-5/8\"_X_4\"_X_8\"_INVISI-LUG®","2-1/4\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-5/8\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_X_4\"_X_8\"_Permeable","2-5/8\"_X_4\"_X_8\"_Permeable","2-1/4\"_X_3-5/8\"_X_11-5/8\"_Plank","2-1/4\"_X_4\"_X_12\"_INVISI-LUG®_Plank","2-1/4\"_X_8\"_X_8\"_INVISI-LUG®","2-1/4\"_X_8\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_Handicap_Detectable_Warning","2-1/4\"_Nominal_Handicap_Detectable","2-1/4\"_X_4\"_X_12\"_Relieved_Edge_Lugged_Plank","Step_Tread"],
+                "alt":"Image of Rose Blend in Wirecut texture"
+                 
+            }
+        ],
+        "productLine":"Paver",
+        "projects":[{"photo":["CreightonRoundAbout","SanClemente"]},{"video":[]}]           
+    },
+    {
+        "id":8,
+        "fullName":"Red_Blend",
+        "descriptionTitle":"Endicott's Desert Ironspot Dark Brick: Bold Sophistication for Architectural Statements",
+        "description":"Make a statement with Endicott's Desert Ironspot Dark brick. Its rich, light brown tones offer a bold contrast, while the characteristic ironspots provide depth and texture. This striking brick from Endicott is ideal for architects seeking a sophisticated and enduring facade that commands attention. ",
+        "mainImage":"https://endicottfiles.com/Red_Blend_Invisi-Lug_Paver.png",
+        "colorGroup":["Red","Burgundy"],
+        "altTag":"Red Blend colored brick, in the colorGroup Red Brick, Burgundy Brick. The product is clay brick.",
+        "textures":[
+            {
+                "texture":"Wirecut",
+                "image":"https://endicottfiles.com/Red_Blend_Invisi-Lug_Paver.png",
+                "fallbackImage":"/assets/FaceBrick/Colors/Desert_Ironspot_Light/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+                "fallbackLargeImage":"/assets/FaceBrick/Colors/Desert_Ironspot_Light/Desert-Ironspot-Light-Smooth-Facebrick-Modular.jpg",
+                "largeImage":"https://endicottfiles.com/Red_Blend_Invisi-Lug_Paver.png",
+                "artx":"https://architextures.org/create/share/48808?appid=1125",
+                "sizes":["1-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_4\"_X_8\"_INVISI-LUG®","2-5/8\"_X_4\"_X_8\"_INVISI-LUG®","2-1/4\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-5/8\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_X_4\"_X_8\"_Permeable","2-5/8\"_X_4\"_X_8\"_Permeable","2-1/4\"_X_3-5/8\"_X_11-5/8\"_Plank","2-1/4\"_X_4\"_X_12\"_INVISI-LUG®_Plank","2-1/4\"_X_8\"_X_8\"_INVISI-LUG®","2-1/4\"_X_8\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_Handicap_Detectable_Warning","2-1/4\"_Nominal_Handicap_Detectable","2-1/4\"_X_4\"_X_12\"_Relieved_Edge_Lugged_Plank","Step_Tread"],
+                "alt":"Image of Red Blend in Wirecut texture"
+                 
+            }
+        ],
+        "productLine":"Paver" ,
+        "projects":[{"photo":["CreightonRoundAbout","SanClemente"]},{"video":[]}]                
+                  
+    },
+    {
+        "id":9,
+        "fullName":"Burgundy_Blend",
+        "descriptionTitle":"Endicott's Desert Ironspot Dark Brick: Bold Sophistication for Architectural Statements",
+        "description":"Make a statement with Endicott's Desert Ironspot Dark brick. Its rich, light brown tones offer a bold contrast, while the characteristic ironspots provide depth and texture. This striking brick from Endicott is ideal for architects seeking a sophisticated and enduring facade that commands attention. ",
+        "mainImage":"https://endicottfiles.com/Burgundy_Blend_Invisi-Lug_Paver.png",
+        "colorGroup":["Red","Burgundy"],
+        "altTag":"Burgundy Blend colored brick, in the colorGroup Red Brick, Burgundy Brick. The product is clay brick.",
+        "textures":[
+            {
+                "texture":"Wirecut",
+                "image":"https://endicottfiles.com/Burgundy_Blend_Invisi-Lug_Paver.png",
+                "fallbackImage":"/assets/FaceBrick/Colors/Desert_Ironspot_Light/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+                "fallbackLargeImage":"/assets/FaceBrick/Colors/Desert_Ironspot_Light/Desert-Ironspot-Light-Smooth-Facebrick-Modular.jpg",
+                "largeImage":"https://endicottfiles.com/Burgundy_Blend_Invisi-Lug_Paver.png",
+                "artx":"https://architextures.org/create/share/48812?appid=1125",
+                "sizes":["1-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_4\"_X_8\"_INVISI-LUG®","2-5/8\"_X_4\"_X_8\"_INVISI-LUG®","2-1/4\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-5/8\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_X_4\"_X_8\"_Permeable","2-5/8\"_X_4\"_X_8\"_Permeable","2-1/4\"_X_3-5/8\"_X_11-5/8\"_Plank","2-1/4\"_X_4\"_X_12\"_INVISI-LUG®_Plank","2-1/4\"_X_8\"_X_8\"_INVISI-LUG®","2-1/4\"_X_8\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_Handicap_Detectable_Warning","2-1/4\"_Nominal_Handicap_Detectable","2-1/4\"_X_4\"_X_12\"_Relieved_Edge_Lugged_Plank","Step_Tread"],
+                "alt":"Image of Burgundy Blend in Wirecut texture"
+                 
+            }
+        ],
+        "productLine":"Paver",
+        "projects":[{"photo":["CreightonRoundAbout","SanClemente"]},{"video":[]}]                
+                   
+    },
+    {
+        "id":10,
+        "fullName":"Bordeaux_Blend",
+        "descriptionTitle":"Endicott's Desert Ironspot Dark Brick: Bold Sophistication for Architectural Statements",
+        "description":"Make a statement with Endicott's Desert Ironspot Dark brick. Its rich, light brown tones offer a bold contrast, while the characteristic ironspots provide depth and texture. This striking brick from Endicott is ideal for architects seeking a sophisticated and enduring facade that commands attention. ",
+        "mainImage":"https://endicottfiles.com/Bordeaux_Blend_Invisi-Lug_Paver.png",
+        "colorGroup":["Red","Burgundy"],
+        "altTag":"Bordeaux Blend colored brick, in the colorGroup Tan Brick, Brown Brick, Orange Brick. The product is clay brick.",
+        "textures":[
+            {
+                "texture":"Wirecut",
+                "image":"https://endicottfiles.com/Bordeaux_Blend_Invisi-Lug_Paver.png",
+                "fallbackImage":"/assets/FaceBrick/Colors/Desert_Ironspot_Light/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+                "fallbackLargeImage":"/assets/FaceBrick/Colors/Desert_Ironspot_Light/Desert-Ironspot-Light-Smooth-Facebrick-Modular.jpg",
+                "largeImage":"https://endicottfiles.com/Bordeaux_Blend_Invisi-Lug_Paver.png",
+                "sizes":["1-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_3-5/8\"_X_7-5/8\"","2-1/4\"_X_4\"_X_8\"_INVISI-LUG®","2-1/4\"_X_4\"_X_8\"_Relieved_Edge_Lugged","2-1/4\"_X_4\"_X_8\"_Permeable","Step_Tread"],
+                "alt":"Image of Bordeaux Blend in Wirecut texture"
+            }
+        ],
+        "productLine":"Paver",
+        "projects":[{"photo":["CreightonRoundAbout","Citadel","SanClemente"]},{"video":[]}]                   
+    }
+]
+

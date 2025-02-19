@@ -1,0 +1,640 @@
+[
+    {
+    "name":"Technical Note Index",
+    "file":"https://endicottfiles.com/index.pdf",
+    "description":"",
+    "call":"index",
+    "order":0
+},
+    {
+    "name":"Hot and Cold Weather Construction",
+    "file":"https://endicottfiles.com/tn1.pdf",
+    "description":"This Technical Note defines cold and hot weather conditions related to brick masonry construction and describes the unfavorable effects of these conditions on masonry materials and their performance. It provides information on weather prediction necessary for construction planning and re tnindex commends practices to achieve optimum performance of masonry constructed during periods of extreme temperatures.",
+    "call":"t1",
+    "order":1
+},
+{
+    "name": "Glossary of Terms Relating to Brick Masonry",
+    "file":"https://endicottfiles.com/tn2.pdf",
+    "description":"Glossary of Terms Relating to Brick Masonry",
+    "call":"t2",
+    "order":2
+},
+{
+    "name":"Overview of Building Code Requirements for Masonry Structures",
+    "file":"https://endicottfiles.com/tn3.pdf",
+    "description":"This Technical Notes provides a review of the national masonry design standard, ACI 530/ASCE 5/TMS 402, and its accompanying masonry specification, ACI 530.1/ASCE 6/TMS 602. New provisions and revisions of existing standards for masonry design are emphasized. Subjects discussed pertaining to the design standard are: allowable stress and strength design of unreinforced and reinforced masonry, prestressed masonry, empirical design, glass block masonry, masonry veneer, quality assurance, and seismic provisions. Items addressed for the masonry specification are: requirements checklist and submittals, masonry quality assurance and inspection requirements, reinforcement and metal accessories, erection tolerances, construction procedures and grouting requirements.",
+    "call":"t3",
+    "order":3
+},
+{
+    "name":"Brick Masonry Material Properties",
+    "file":"https://endicottfiles.com/tn3a.pdf",
+    "description":"Brick masonry has a long history of reliable structural performance. Standards for the structural design of masonry which are periodically updated such as the Building Code Requirements for Masonry Structures (ACI 530/ASCE 5/TMS 402) and the Specifications for Masonry Structures (ACI 530.1/ASCE 6/TMS 602) advance the efficiency of masonry elements with rational design criteria. However, design of masonry structural members begins with a thorough understanding of material properties. This Technical Notes is an aid for the design of brick and structural clay tile masonry structural members. Clay and shale units, mortar, grout, steel reinforcement and assemblage material properties are presented to simplify the design process.",
+    "call":"t3a",
+    "order":4
+},
+{
+    "name":" Brick Masonry Section Properties ",
+    "file":"https://endicottfiles.com/tn3b.pdf",
+    "description":"This Technical Notes is a design aid for the Building Code Requirements for Masonry Structures (ACI 530/ASCE 5/TMS 402-92) and Specifications for Masonry Structures (ACI 530.1/ASCE 6/TMS 602-92). Section properties of brick masonry units, steel reinforcement and brick masonry assemblages are given to simplify the design process. Section properties are used to calculate stresses and to determine the allowable stresses given in the ACI 530/ASCE 5/TMS 402-92 Code.",
+    "call":"t3b",
+    "order":5
+},
+{
+    "name":" Introduction to Energy Performance of Brick Masonry ",
+    "file":"https://endicottfiles.com/tn4.pdf",
+    "description":"Thermal performance of the building envelope is a significant factor in the energy efficiency of a building.  Thermal performance depends upon many factors, including the amount of insulation, the extent of glass/glazing used, mass and thickness of the walls, and the thermal resistance of wall materials. This Technical Note provides a foundation for understanding building thermal energy performance. Material properties for common building materials are given including thermal resistance (R-values) and transmittance (U-factors) based on steady-state conditions. The impacts of thermal mass and thermal bridges, which are often excluded from R-value and U-factor calculations, are also explained. The relative accuracy of various methods for estimating thermal performance are presented, including computer analyses that account for both thermal mass and thermal bridging effects. Other Technical Notes in this series provide further information on energy code requirements and thermal performance of specific brick masonry wall assemblies for residential and commercial construction.",
+    "call":"t4",
+    "order":6
+},
+{
+    "name":"Residential Energy Code Compliance",
+    "file":"https://endicottfiles.com/tn4a.pdf",
+    "description":"This Technical Note presents current U.S. building and energy code criteria applicable to the design of wall assembly portions of residential structures of three stories or fewer. A brief description of compliance paths is provided, along with a comparison of code requirements to widely used measures of residential energy performance. An example of the preferred method for calculating R-values and U-factors for wood-frame walls with brick veneer is given. The minimum required thicknesses of various insulation products in each climate zone are indicated for common residential brick veneer assemblies.",
+    "call":"t4a",
+    "order":7
+},
+{
+    "name":"Energy Code Compliance of Brick Masonry Walls ",
+    "file":"https://endicottfiles.com/tn4b.pdf",
+    "description":"All buildings designed today must comply with energy code requirements. Building energy performance requirements may be embodied in a model building code or in a separate energy standard. These documents typically contain requirements for the building envelope, including walls, windows, doors, roofs and floors. Brick masonry, as a high mass building material, has the inherent energy saving feature of thermal storage capacity (thermal mass). This Technical Notes describes how to quantify thermal mass and calculate the heat capacity of several brick masonry walls. The procedure for addressing thermal mass in residential and commercial construction when determining building envelope compliance with widely used energy standards and codes is also described.",
+    "call":"t4b",
+    "order":8
+},
+{
+    "name":"Sound Insulation - Clay Masonry Walls",
+    "file":"https://endicottfiles.com/tn5a.pdf",
+    "description":"The sound insulation or sound transmission loss of a wall is that property which enables it to resist the passage of noise or sound from one side to the other. This should not be confused with sound absorption which is that property of a material which permits sound waves to be absorbed, thus reducing the noise level within a given space and eliminating echoes or reverberations. Only sound insulation will be discussed in this Technical Notes.",
+    "call":"t5a",
+    "order":9
+},
+{
+    "name":" Painting Brick Masonry",
+    "file":"https://endicottfiles.com/tn6.pdf",
+    "description":"Although some masonry walls require protective coatings to impart color and help in resisting rain penetration, clay masonry requires no painting or surface treatment. Brick are generally selected because, among other characteristics, they have integral and durable color and, when properly constructed, are resistant to rain penetration. Clay masonry walls may be painted to increase light reflection or for decorative purposes. Most paint authorities agree that, once painted, exterior masonry will require repainting every three to five years. This issue of Technical Notes discusses general applications of paint to interior and exterior brick walls, and a brief discussion on specific paints suitable for brick masonry.",
+    "call":"t6",
+    "order":10
+},
+{
+    "name":"Colorless Coatings for Brick Masonry",
+    "file":"https://endicottfiles.com/tn6a.pdf",
+    "description":"This Technical Note discusses common reasons for applying colorless coatings to above-grade brick masonry and the appropriateness of such actions. The types of products often used and the advantages and disadvantages of each are presented. Issues to consider prior to application of a clear coating to brick masonry are provided.",
+    "call":"t6a",
+    "order":11
+},
+{
+    "name":"Water Penetration Resistance – Design",
+    "file":"https://endicottfiles.com/tn7.pdf",
+    "description":"Brick masonry walls require proper design, detailing and construction to minimize water penetration into or through a wall system. Many aspects of design, construction and maintenance can influence the resistance of a wall to water penetration. The selection of the proper type of wall is of utmost importance in the design process, as is the need for complete and accurate detailing. In addition to discussing various wall types, this Technical Note covers proper design of brick masonry walls and suggests details that have been found to increase water penetration resistance.",
+    "call":"t7",
+    "order":12
+},
+{
+    "name":"Water Penetration Resistance – Materials ",
+    "file":"https://endicottfiles.com/tn7a.pdf",
+    "description":"This Technical Note discusses considerations for the selection of materials used in brickwork and their impact on its resistance to water penetration. Minimum recommended property requirements and performance characteristics of typical materials are described.",
+    "call":"t7a",
+    "order":13
+},
+{
+    "name":"Water Penetration Resistance – Construction and Workmanship ",
+    "file":"https://endicottfiles.com/tn7b.pdf",
+    "description":"This Technical Note covers essential construction practices needed to ensure water-resistant brick masonry.  Procedures for preparing materials to be used in brick construction are recommended, including proper storage, handling and preparation of brick, mortar, grout and flashing. Good workmanship practices are described, including the complete filling of all mortar joints, tooling of mortar joints for exterior exposure and covering unfinished brick masonry walls to protect them from moisture.",
+    "call":"t7b",
+    "order":14
+},
+{
+    "name":"Mortars for Brickwork" ,
+    "file":"https://endicottfiles.com/tn8.pdf",
+    "description":"This Technical Note addresses mortars for brickwork. The major ingredients of mortar are identified. Means of specifying mortar are covered. Mortar properties are described, as well as their effect on brickwork. Information is provided for selection of the appropriate materials for mortar and properties of mortars.",
+    "call":"t8",
+    "order":15
+},
+{
+    "name":"Mortars for Brickwork - Selection and Quality Assurance ",
+    "file":"https://endicottfiles.com/tn8b.pdf",
+    "description":"This Technical Note discusses the selection and specification of mortar Type.",
+    "call":"t8b",
+    "order":16
+},
+{
+    "name":"Manufacturing of Brick ",
+    "file":"https://endicottfiles.com/tn9.pdf",
+    "description":"This Technical Note presents fundamental procedures for the manufacture of clay brick. The types of clay used, the three principal processes for forming brick and the various phases of manufacturing, from mining through storage, are discussed. Information is provided regarding brick durability, color, texture (including coatings and glazes), size variation, compressive strength and absorption.",
+    "call":"t9",
+    "order":17
+},
+{
+    "name":"Specifications for and Classification of Brick",
+    "file":"https://endicottfiles.com/tn9a.pdf",
+    "description":"This Technical Note describes the predominant-consensus standard specifications for brick and the various classifications used in each. Specific requirements — including physical properties, appearance features and coring — are described. Additional requirements for each brick specification also are covered.",
+    "call":"t9a",
+    "order":18
+},
+{
+    "name":"Manufacturing, Classification, and Selection of Brick, Selection, Part 3 ",
+    "file":"https://endicottfiles.com/tn9b.pdf",
+    "description":"This Technical Notes addresses the selection of brick. Evaluation of the properties and applications of brick determines the durability, appearance, and impression of a project. Information is provided regarding aesthetics, cost and availability.",
+    "call":"t9b",
+    "order":19
+},
+{
+    "name":"Dimensioning and Estimating Brick Masonry ",
+    "file":"https://endicottfiles.com/tn10.pdf",
+    "description":"This Technical Note presents information for determining the basic layout of brick masonry walls, including both structural and veneer applications. Modular and non-modular brick masonry is discussed, including overall dimensioning of masonry walls using various brick unit sizes. Finally, guidelines are presented to aid the designer in estimating the amount of materials needed for brick masonry.",
+    "call":"t10",
+    "order":20
+},
+{
+    "name":"Guide Specifications for Brick Masonry, Part 1",
+    "file":"https://endicottfiles.com/tn11.pdf",
+    "description":"Numerous methods are being explored to reduce constantly rising building costs. One means in which many segments of the construction industry believe holds promise of lowering these costs is the use of specific, definitive and concise specifications. They must convey to the contractor the exact requirements of the project and be organized to facilitate take-off and estimating. Many general contractors have testified that the use of such specifications results in lower contract bids. During recent years, organizations, such as the American Institute of Architects (AIA), Producers Council (PC), Associated General Contractors of America (AGC), and the Construction Specifications Institute (CSI), have made the improvement of construction specifications one of their major activities. In accordance with the work of these agencies, the guide specifications in this series of Technical Notes are written to follow the CSI format insofar as possible.",
+    "call":"t11",
+    "order":21
+},
+{
+    "name":"Guide Specifications for Brick Masonry, Part 2 ",
+    "file":"https://endicottfiles.com/tn11a.pdf",
+    "description":"This Technical Notes contains the guide specifications in CSI format for Division 4, Section 04210, Part I - General, and Part II - Products. Part III - Execution is in Technical Notes 11B Revised. The specifications are applicable to ANSI A41.1 - 1953 (R1970), Building Code Requirements for Masonry, ANSI A41.2 - 1960 (R 1970), Building Code Requirements for Reinforced Masonry, or equivalent sections in the Model Building Codes. The guide specifications in Technical Notes 11A Revised and 11B Revised can be used for engineered brick masonry designed to comply with Building Code Requirements for Engineered Brick Masonry, BIA, August 1969, or equivalent sections in the Model Building Codes, when additional quality assurance requirements are incorporated into the specifications. See Technical Notes 11C Revised.",
+    "call":"t11a",
+    "order":22
+},
+{
+    "name":"Guide Specifications for Brick Masonry, Part 3",
+    "file":"https://endicottfiles.com/tn11b.pdf",
+    "description":"This Technical Notes contains the guide specifications in CSI format for Part III - Execution. Part I - General, and Part II - Products are in Technical Notes 11A Revised.",
+    "call":"t11b",
+    "order":23
+},
+{
+    "name":"Guide Specifications for Brick Masonry, Part 4",
+    "file":"https://endicottfiles.com/tn11c.pdf",
+    "description":"This issue of Technical Notes and the following issue, Technical Notes 11D, contain the required additional sections and statements to be incorporated into the \"Guide Specifications for Brick Masonry\", Technical Notes 11A Revised and 11B Revised. This will make the guide specifications in those Technical Notes suitable for Engineered Brick Masonry. The sections contained in these Technical Notes deal primarily with the quality assurance, selection of units, strength and construction tolerances to provide masonry that meets the minimum design requirements for Engineered Brick Masonry.",
+    "call":"t11c",
+    "order":24
+},
+{
+    "name":"Guide Specifications for Brick Masonry, Part 4 Continued ",
+    "file":"https://endicottfiles.com/tn11d.pdf",
+    "description":"This issue of Technical Notes is a continuation of Technical Notes 11C Revised and contains additional sections and statements to be incorporated into the \"Guide Specifications for Brick Masonry\", Technical Notes 11A Revised and 11B Revised. This will make the guide specifications in those Technical Notes suitable for Engineered Brick Masonry. The sections contained in these Technical Notes deal primarily with the quality assurance, selection of units, strength and construction tolerances to provide masonry that meets the minimum design requirements for Engineered Brick Masonry.",
+    "call":"t11d",
+    "order":25
+},
+{
+    "name":"Guide Specifications for Brick Masonry, Part 5, Mortar and Grout ",
+    "file":"https://endicottfiles.com/tn11e.pdf",
+    "description":"This Technical Notes is a guide specification for mortar and grout used in brick masonry. Using this Technical Notes, a specifier can prepare a job specification for Section 04100. Notes are provided to help the specifier understand certain decisions that affect the project specifications. The guide specification is in accordance with the Construction Specifications Institute's (CSI) Masterformat.",
+    "call":"t11e",
+    "order":26
+},
+{
+    "name":"Ceramic Glazed Brick Exterior Walls ",
+    "file":"https://endicottfiles.com/tn13.pdf",
+    "description":"Buildings and other structures employ glazed brick in a variety of uses, from decorative bands to entire wall systems. Due to the imperviousness of its ceramic glazed surface, a vented air space is recommended behind the glazed brick wythe. Proper wall design, detailing and material selection, along with quality construction, will result in attractive glazed brick applications exhibiting durability, structural stability and virtually maintenance-free aesthetics.",
+    "call":"t13",
+    "order":27
+},
+{
+    "name":"Paving Systems Using Clay Pavers ",
+    "file":"https://endicottfiles.com/tn14.pdf",
+    "description":"This Technical Note presents an overview of paving systems made with clay pavers used in pedestrian and vehicular, residential and nonresidential projects. Commonly used systems that include clay pavers are discussed, and guidance is given in selecting the appropriate clay paver, setting bed and base. Site conditions and project requirements that may affect choice are discussed, including subgrade soil, pedestrian and vehicular traffic, accessibility requirements, drainage and appearance.",
+    "call":"t14",
+    "order":28
+},
+{
+    "name":"Paving Systems Using Clay Pavers on a Sand Setting Bed ",
+    "file":"https://endicottfiles.com/tn14a.pdf",
+    "description":"This Technical Note describes the proper design and construction of pavements made with clay pavers on a sand setting bed in pedestrian and vehicular, residential and nonresidential projects.",
+    "call":"t14a",
+    "order":29
+},
+{
+    "name":"Paving Systems Using Clay Pavers on a Bituminous Setting Bed ",
+    "file":"https://endicottfiles.com/tn14b.pdf",
+    "description":"This Technical Note describes the proper design and construction of pavements made with clay pavers laid on a bituminous setting bed in pedestrian and vehicular, residential and nonresidential projects.",
+    "call":"t14b",
+    "order":30
+},
+{
+    "name":"Paving Systems Using Clay Pavers in a Mortar Setting Bed ",
+    "file":"https://endicottfiles.com/tn14c.pdf",
+    "description":"This Technical Note describes the proper design and construction of pedestrian and light vehicular pavements made with clay pavers laid in a mortar setting bed.",
+    "call":"t14c",
+    "order":31
+},
+{
+    "name":"Permeable Clay Brick Pavements ",
+    "file":"https://endicottfiles.com/tn14d.pdf",
+    "description":"This Technical Note describes the proper design and construction of permeable pavements made with clay pavers on an aggregate setting bed, an open-graded aggregate base, and an open-graded subbase. The purpose and performance of this type of paving in environmental protection and stormwater management are discussed. Options for stormwater design are reviewed, and guidance is given in material selection and installation.",
+    "call":"t14d",
+    "order":32
+},
+{
+    "name":"Accessible Clay Brick Pavements ",
+    "file":"https://endicottfiles.com/tn14e.pdf",
+    "description":"Pavements composed of clay brick pavers must be able to accommodate many types of traffic, including pedestrians with physical disabilities. This Technical Note includes guidance related to the design, construction and maintenance of pavements constructed of brick pavers that will serve all people, including those with disabilities.",
+    "call":"t14e",
+    "order":33
+},
+{
+    "name":"Salvaged Brick ",
+    "file":"https://endicottfiles.com/tn15.pdf",
+    "description":"The use of salvaged brick in new building construction is discussed. Factors affecting the selection include altered physical properties (durability), aesthetics, economics, building code requirements and experimental testing.",
+    "call":"t15",
+    "order":34
+},
+{
+    "name":"Fire Resistance of Brick Masonry",
+    "file":"https://endicottfiles.com/tn16.pdf",
+    "description":"This Technical Note presents information about the fire resistance of brick masonry assemblies in loadbearing and veneer applications. Fire resistance ratings of several brick masonry wall assemblies tested using ASTM E119 procedures are listed. For untested wall assemblies, procedures are presented for calculating a fire resistance rating.",
+    "call":"t16",
+    "order":35
+},
+{
+    "name":"Reinforced Brick Masonry - Introduction",
+    "file":"https://endicottfiles.com/tn17.pdf",
+    "description":"The concept and use of reinforced brick masonry (RBM) has a long history. This Technical Notes documents the history of RBM. Recent and current code provisions are enumerated. Several applications of RBM show the variety of possible uses.",
+    "call":"t17",
+    "order":36
+},
+{
+    "name":"Reinforced Brick Masonry - Materials and Construction ",
+    "file":"https://endicottfiles.com/tn17a.pdf",
+    "description":"This Technical Notes provides a discussion of the proper methods of constructing reinforced brick masonry.  Materials used in reinforced brick masonry are included Construction of brick masonry, placement of steel reinforcement and grouting are addressed. Recommendations are provided to ensure that the completed masonry will provide adequate performance. Particular emphasis is placed on those aspects of construction that are unique to reinforced brick masonry. Various quality assurance procedures and tests are also explained.",
+    "call":"t17a",
+    "order":37
+},
+{
+    "name":"Reinforced Brick Masonry - Beams ",
+    "file":"https://endicottfiles.com/tn17b.pdf",
+    "description":"Reinforced brick masonry (RBM) beams are an efficient and attractive means of spanning building openings. The addition of steel reinforcement and grout permits brick masonry to span considerable distances while maintaining continuity of the building facade. Attractive brick soffits and elimination of steel support members are two of the advantages of reinforced brick masonry beams. This Technical Notes addresses the design of reinforced brick masonry beams. Building code requirements are reviewed and design aids are provided to simplify the design process. Illustrations indicate the proper detailing and typical construction of reinforced brick masonry beams.",
+    "call":"t17b",
+    "order":38
+},
+{
+    "name":"Four Inch RBM Curtain and Panel Walls ",
+    "file":"https://endicottfiles.com/tn17l.pdf",
+    "description":"This Technical Notes presents the design and construction of 4-in. brick masonry curtain and panel walls which are considered to span horizontally in resisting lateral forces.",
+    "call":"t17l",
+    "order":39
+},
+{
+    "name":"Reinforced Brick Masonry Girders - Examples ",
+    "file":"https://endicottfiles.com/tn17m.pdf",
+    "description":"\"Girder\" is the name applied to a large size beam which usually has smaller beams framing into it. A Reinforced Brick Masonry (RBM) girder consists of brick masonry in which steel reinforcement is embedded so that the resulting horizontal member is capable of resisting loads which produce compressive, tensile and shearing stresses. The principles of design for RBM girders and beams are the same as those commonly accepted for the working stress design for reinforced concrete flexural members, and similar formulae may be used.",
+    "call":"t17m",
+    "order":40
+},
+{
+    "name":" Volume Changes - Analysis and Effects of Movement ",
+    "file":"https://endicottfiles.com/tn18.pdf",
+    "description":"This Technical Note describes the various movements that occur within buildings. Movements induced by changes in temperature, moisture, elastic deformations, creep, and other factors develop stresses if the brickwork is restrained. Restraint of these movements may result in cracking of the masonry. Typical crack patterns are shown and their causes identified.",
+    "call":"t18",
+    "order":41
+},
+{
+    "name":"Accommodating Expansion of Brickwork  ",
+    "file":"https://endicottfiles.com/tn18a.pdf",
+    "description":"Expansion joints are used in brickwork to accommodate movement and to avoid cracking. This Technical Note describes typical movement joints used in building construction and gives guidance regarding their placement. The theory and rationale for the guidelines are presented. Examples are given showing proper placement of expansion joints to avoid cracking of brickwork and methods to improve the aesthetic impact of expansion joints. Also included is information about bond breaks, bond beams and flexible anchorage.",
+    "call":"t18a",
+    "order":42
+},
+{
+    "name":"Residential Fireplace Design",
+    "file":"https://endicottfiles.com/tn19.pdf",
+    "description":"This Technical Notes covers the components, design and dimensions of residential wood-burning fireplaces. The recommendations are limited to single-face fireplaces. Concepts for increased energy efficiency as a supplemental heating unit are also addressed. Recommendations for the selection of materials as they relate to the construction of fireplaces are included.",
+    "call":"t19",
+    "order":43
+},
+{
+    "name":"Residential Fireplaces, Details and Construction ",
+    "file":"https://endicottfiles.com/tn19a.pdf",
+    "description":"Brick masonry residential fireplaces can be made more energy efficient by providing a source of combustion and draft air drawn from the exterior of the structure. Proper detailing and construction can also contribute to the overall performance of the fireplace regarding both energy efficiency and structural integrity. Building code requirements often control the configuration of the fireplace as well as component sizes.",
+    "call":"t19a",
+    "order":44
+},
+{
+    "name":"Residential Chimneys - Design and Construction ",
+    "file":"https://endicottfiles.com/tn19b.pdf",
+    "description":"All residential chimneys. both for fireplaces and appliances, are designed and constructed to serve the same basic functions. They must provide fire protection and safely convey combustion by-products to the exterior of the structure at a rate that does not adversely affect the combustion process. Design, materials selection, construction, and building code requirements all have a significant impact on the chimney's potential to fulfill these functions. Chimney height and flue area are the two most critical factors in chimney desire.",
+    "call":"t19b",
+    "order":45
+},
+{
+    "name":"Contemporary Brick Masonry Fireplaces ",
+    "file":"https://endicottfiles.com/tn19c.pdf",
+    "description":"Considerations and recommendations necessary for the successful design of fireplaces are addressed Design and construction recommendations included for Rumford fireplaces, aircirculating fireplaces and multi-face fireplaces. Concepts for increased energy efficiency are also provided.",
+    "call":"t19c",
+    "order":46
+},
+{
+    "name":"Brick Masonry Fireplaces, Part 1, Russian-Style Heaters ",
+    "file":"https://endicottfiles.com/tn19d.pdf",
+    "description":"Brick masonry heaters may be used instead of conventional fireplaces to provide efficient supplemental heating for residential buildings. The design, detailing and construction of brick masonry fireplaces with baffle systems for combustion gases are discussed. Information regarding building code compliance, operation and the accessories required is presented with the basic principles by which these heaters provide supplemental heat for buildings.",
+    "call":"t19d",
+    "order":47
+},
+{
+    "name":"Brick Masonry Fireplaces, Part 2 - Fountain and Contemporary Style Heaters ",
+    "file":"https://endicottfiles.com/tn19e.pdf",
+    "description":"Brick masonry heaters may be used instead of conventional fireplaces to provide efficient supplemental heating for residential buildings. The design, detailing and construction of brick masonry fireplaces with baffle systems through which combustion gases are circulated are discussed. Information regarding building code compliance, operation and accessories is presented, along with the basic heating principles.",
+    "call":"t19e",
+    "order":48
+},
+{
+    "name":"Cleaning Brickwork",
+    "file":"https://endicottfiles.com/tn20.pdf",
+    "description":"This Technical Note addresses cleaning of brickwork and brick pavements. Methods for removal of efflorescence and a variety of specific stains are discussed, which should result in the successful cleaning of brickwork.",
+    "call":"t20",
+    "order":49
+},
+{
+    "name":"Stains - Identification and Prevention",
+    "file":"https://endicottfiles.com/tn23.pdf",
+    "description":"This Technical Note provides descriptions and photographs that aid in identifying efflorescence and stains on brickwork.  It includes information on stain composition, factors that influence their occurrence, and stain prevention.",
+    "call":"t23",
+    "order":50
+},
+{
+    "name":"Efflorescence - Causes and Prevention",
+    "file":"https://endicottfiles.com/tn23a.pdf",
+    "description":"This Technical Note describes the mechanisms leading to the formation of efflorescence, including probable sources of soluble salts and moisture. Conditions necessary to cause efflorescence to appear are presented, along with design recommendations and practices that reduce the potential for efflorescence.",
+    "call":"t23a",
+    "order":51
+},
+{
+    "name":"The Contemporary Bearing Wall",
+    "file":"https://endicottfiles.com/tn24.pdf",
+    "description":"Historically, the structural design of masonry buildings was based on the empirical requirements of building codes for minimum wall thickness and maximum height. Bearing wall construction for buildings higher than three to five stories was uneconomical and other methods of support (steel or concrete skeleton frame) were generally used. In 1965, there was a renewed interest on the part of the design professional, architect and engineer, in modern bearing wall construction, wherein the design is based on a rational structural analysis rather than on outmoded arbitrary requirements. This interest was first stimulated by the work in Europe, where many loadbearing brick buildings exceeding ten stories in height have been constructed during the past two decades.",
+    "call":"t24",
+    "order":52
+},
+{
+    "name":"The Contemporary Bearing Wall - Introduction to Shear Wall Design",
+    "file":"https://endicottfiles.com/tn24c.pdf",
+    "description":"The general design concept of the contemporary bearing wall building system depends upon the combined structural action of the floor and roof systems with the walls. The floor system carries vertical loads and, acting as a diaphragm, lateral loads to the walls for transfer to the foundation. Lateral forces of wind and earthquake are usually resisted by shear walls which are parallel to the direction of the lateral load. These shear walls, by their shearing resistance and resistance to overturning, transfer the lateral loads to the foundation.",
+    "call":"t24c",
+    "order":53
+},
+{
+    "name":"The Contemporary Bearing Wall - Construction",
+    "file":"https://endicottfiles.com/tn24f.pdf",
+    "description":"The Contemporary Bearing Wall concept as conceived and being applied today is based upon rational engineering design. This concept requires floors and walls to work together as a system, each giving support to the other. A building of high strength, in which the structure provides finish, closure, partition, sound control and fire resistance, is thereby provided. In order to achieve this end, it is necessary that proper attention be given to design details and construction procedures. It is of utmost importance that constructors follow the plans and specifications of the designers.",
+    "call":"t24f",
+    "order":54
+},
+{
+    "name":"The Contemporary Bearing Wall - Detailing",
+    "file":"https://endicottfiles.com/tn24g.pdf",
+    "description":"The selection of a wall type and appropriate connection details is one of the most important decisions to be made in the design of a bearing wall building. In most cases, the primary consideration will be a system which satisfies the structural requirements of the building. Other considerations are also of importance, including the properties and performance of the walls and floors that will result in an economical, maintenance-free and easy-to-construct building.",
+    "call":"t24g",
+    "order":55
+},
+{
+    "name":"Single Wythe Bearing Walls",
+    "file":"https://endicottfiles.com/tn26.pdf",
+    "description":"Brick masonry bearing wall systems have been used for years for their strength, durability and other inherent values. Once widely used in single family residential construction, this application is experiencing a resurgence in interest. New designs possible with a single wythe of brick are discussed in this Technical Notes. Selection of materials and recommended details for one and two story designs are addressed.",
+    "call":"t26",
+    "order":56
+},
+{
+    "name":"Brick Masonry Rain Screen Walls ",
+    "file":"https://endicottfiles.com/tn27.pdf",
+    "description":"Pressure equalization across the exterior wythe of brick veneer and cavity walls allows the rain screen principle to minimize the infiltration of rain into exterior walls. This Technical Notes focuses on the design and wall components that contribute to the pressure equalized rain screen wall. A compartmented air cavity behind the exterior brick wythe, a rigid air barrier system and adequate venting area of the exterior cladding in relation to the leakage area of the air barrier are necessary elements.",
+    "call":"t27",
+    "order":57
+},
+{
+    "name":"Brick Veneer Wood Stud Walls",
+    "file":"https://endicottfiles.com/tn28.pdf",
+    "description":"This Technical Note deals with the prescriptive design of anchored brick veneer over wood stud backing in new construction. The properties of the brick veneer/wood stud system are described, which lead to design considerations. Selection of materials, construction details and workmanship techniques are also included.",
+    "call":"t28",
+    "order":58
+},
+{
+    "name":"Adding Brick Veneer to Existing Construction",
+    "file":"https://endicottfiles.com/tn28a.pdf",
+    "description":"This Technical Note presents information on adding anchored brick veneer and thin brick adhered veneer to existing construction. Considerations and recommendations for design, detailing, material selection and construction specific to retrofitting existing walls with brick veneer are presented. Other Technical Notes are referenced for general brick veneer construction information not specific to the retrofit of existing construction.",
+    "call":"t28a",
+    "order":59
+},
+{
+    "name":"Brick Veneer Steel Stud Walls",
+    "file":"https://endicottfiles.com/tn28b.pdf",
+    "description":"This Technical Note addresses the considerations and recommendations for the design, detailing, material selection and construction of brick veneer/steel stud walls. This information pertains to behavior of the veneer and steel studs, differential movement, anchors, air space, detailing, selection of materials and construction techniques.",
+    "call":"t28b",
+    "order":60
+},
+{
+    "name":"Thin Brick Veneer",
+    "file":"https://endicottfiles.com/tn28c.pdf",
+    "description":"This Technical Note presents design and construction information on the use of thin brick in adhered veneer systems. Methods of thin brick construction discussed include thick set, thin set, modular panels and prefabricated panels consisting of architectural precast concrete, tilt-up concrete and wood or steel stud frame panels. Properties of the finished construction and comparisons to other systems are presented.",
+    "call":"t28c",
+    "order":61
+},
+{
+    "name":"Brick Veneer/Concrete Masonry Walls  ",
+    "file":"https://endicottfiles.com/tn28d.pdf",
+    "description":"This Technical Note presents design, material and construction information for anchored brick veneer on concrete masonry backing. Description of properties, theories of structural design and proper detailing are presented. Refer to Technical Notes 28 and 28B for specific information related to drained wall assemblies with non-masonry backing.",
+    "call":"t28d",
+    "order":62
+},
+{
+    "name":"Brick in Landscape Architecture - Pedestrian Applications",
+    "file":"https://endicottfiles.com/tn29.pdf",
+    "description":"This Technical Notes describes brick paving systems used in landscape design. Landscape architecture and its relationship to brick masonry is covered. Master planning and environmental aspects of landscape architecture are briefly discussed. Applications covered include patios, walks, steps and ramps. Materials and methods of construction of flexible and rigid paving applications, citing the most critical requirements, are outlined.",
+    "call":"t29",
+    "order":63
+},
+{
+    "name":"Brick in Landscape Architecture - Garden Walls ",
+    "file":"https://endicottfiles.com/tn29a.pdf",
+    "description":"The plan of a garden usually involves \"leading\" the sojourner through a series of spatial relationships. This can be done formally, informally or subtly, depending upon the purpose and skill of the designer. Among the tools used for this purpose are garden walls of brick. They may invite, enhance, lead, restrict, compel, separate, combine, protect, screen or prohibit; all to the purpose of the artist and his skill.",
+    "call":"t29a",
+    "order":64
+},
+{
+    "name":"Brick in Landscape Architecture - Misc. Applications",
+    "file":"https://endicottfiles.com/tn29b.pdf",
+    "description":"In this issue of Technical Notes are suggestions for the use of brick in landscape architecture that take advantage of the unique practicality and permanent beauty of the material. The color and texture of brick will complement the masses and lines of contemporary architecture. And for traditional architecture, brick lends the same charm that has endured for more than a century and a half on the grounds surrounding the splendid mansions of Colonial America.",
+    "call":"t29b",
+    "order":65
+},
+{
+    "name":"Bonds and Patterns in Brickwork",
+    "file":"https://endicottfiles.com/tn30.pdf",
+    "description":"The word bond, when used in reference to masonry, may have three meanings: Structural Bond: The method by which individual masonry units are interlocked or tied together to cause the entire assembly to act as a single structural unit. Pattern Bond: The pattern formed by the masonry units and the mortar joints on the face of a wall. The pattern may result from the type of structural bond used or may be purely a decorative one unrelated to the structural bonding. Mortar Bond: The adhesion of mortar to the masonry units or to reinforcing steel.",
+    "call":"t30",
+    "order":66
+},
+{
+    "name":"Brick Masonry Arches ",
+    "file":"https://endicottfiles.com/tn31.pdf",
+    "description":"The masonry arch is one of the oldest structural elements. Brick masonry arches have been used for hundreds of years. This Technical Notes is an introduction to brick masonry arches. Many of the different types of brick masonry arches are discussed and a glossary of arch terms is provided. Material selection, proper construction methods, detailing and arch construction recommendations are discussed to ensure proper structural support, durability and weather resistance of the brick masonry arch.",
+    "call":"t31",
+    "order":67
+},
+{
+    "name":"Structural Design of Brick Masonry Arches",
+    "file":"https://endicottfiles.com/tn31a.pdf",
+    "description":"This issue of Technical Notes covers the structural design of major and minor brick masonry arches.",
+    "call":"t31a",
+    "order":68
+},
+{
+    "name":"Structural Steel Lintels",
+    "file":"https://endicottfiles.com/tn31b.pdf",
+    "description":"The design of structural steel lintels for use with brick masonry is too critical an element to be left to \"rule-of-thumb\" designs. Too little concern for loads, stresses and serviceability can lead to problems. Information is provided so that structural steel lintels for use in brick masonry walls may be satisfactorily designed.",
+    "call":"t31b",
+    "order":69
+},
+{
+    "name":"Structural Design of Semicircular Brick Masonry Arches",
+    "file":"https://endicottfiles.com/tn31c.pdf",
+    "description":"This issue of Technical Notes presents recommended procedures and tables for the structural design of non-reinforced semicircular and segmental arches. Technical Notes 31 and 31A contain further information about general arch forms and their design.",
+    "call":"t31c",
+    "order":70
+},
+{
+    "name":"Brick Masonry Details, Sills, and Soffits",
+    "file":"https://endicottfiles.com/tn36.pdf",
+    "description":"Detailing of brick masonry is both an art and a science. Recommendations are provided for the development of successful details using brick masonry and other materials. Detailing of sills and soffits is specifically addressed. Performance, esthetic value and economics are the principal considerations in the development of successful details.",
+    "call":"t36",
+    "order":71
+},
+{
+    "name":"Brick Masonry Details, Caps and Copings, Corbels and Racking",
+    "file":"https://endicottfiles.com/tn36a.pdf",
+    "description":"Recommendations are provided for the development of successful details using brick masonry. Detailing of caps, copings, corbels and racking is specifically addressed. Performance, esthetic value and economics are the principal considerations in the develops meant of successful details.",
+    "call":"t36a",
+    "order":72
+},
+{
+    "name":"Testing for Engineered Brick Masonry- Brick and Mortar",
+    "file":"https://endicottfiles.com/tn39.pdf",
+    "description":"Testing of brick, mortar and grout is often required prior to and during construction of engineered brick masonry projects. The tests involve a combination of laboratory and field procedures which are described in various ASTM standards. The extent of testing is a decision made by the engineering or architectural firm responsible for the masonry design, and may consist of only a few laboratory tests to determine the properties of the brick units, or may involve extensive laboratory and field sampling and testing. This Technical Notes describes the testing of materials; other issues in this series describe testing of brick masonry assemblages.",
+    "call":"t39",
+    "order":73
+},
+{
+    "name":"Testing for Engineered Brick Masonry - Determination of Allowable Design Stresses",
+    "file":"https://endicottfiles.com/tn39a.pdf",
+    "description":"This Technical Notes will cover ASTM standards for the determination of all necessary design stresses for brick masonry as specified in the design standard, Building Code Requirements for Engineered Brick Masonry, BIA, August 1969, and the model building codes in present-day usage. It will also stipulate the revisions necessary to determine the same properties for hollow brick units. Subsequent issues of Technical Notes will discuss miscellaneous tests for masonry not to be used for design stress determinations. These tests will be used primarily for quality control, material comparability and in-the-wall performance predictions for properties other than strength.",
+    "call":"t39a",
+    "order":74
+},
+{
+    "name":"Testing for Engineered Brick Masonry - Quality Control ",
+    "file":"https://endicottfiles.com/tn39b.pdf",
+    "description":"Testing prior to and during the construction of engineered brick masonry may be required to provide a means of quality assurance. Testing may cover materials, to determine compliance with the project requirements, assemblies, to determine the properties of the masonry as constructed or to establish the properties of masonry in existing structures. The extent of testing required must be determined by the engineering or architectural firm responsible for the project design and will depend upon the complexity and importance of the project. This Technical Notes describes quality assurance procedures applicable to brick masonry assemblies; other issues in this series address testing of component materials and testing to establish allowable design stresses.",
+    "call":"t39b",
+    "order":75
+},
+{
+    "name":"Prefabricated Brick Masonry - Introduction",
+    "file":"https://endicottfiles.com/tn40.pdf",
+    "description":"This Technical Notes deals only with prefabricated brick masonry using full size brick units. Prefabricated elements of thin brick facing units, in conjunction with concrete, fiberboard or other backings, are discussed in Technical Notes 28C.",
+    "call":"t40",
+    "order":76
+},
+{
+    "name":"Hollow Brick Masonry",
+    "file":"https://endicottfiles.com/tn41.pdf",
+    "description":"This Technical Note presents information about the use of hollow brick in both structural and anchored veneer applications. Basic properties of hollow brick units are presented, including applicable ASTM standards. Issues specific to hollow brick masonry are discussed, including design details, structural performance and construction methods.",
+    "call":"t41",
+    "order":77
+},
+{
+    "name":"Empirical Design of Brick Masonry ",
+    "file":"https://endicottfiles.com/tn42.pdf",
+    "description":"This Technical Notes provides requirements for the empirical design of masonry structures. These requirements are based on past proven performance. The provisions are taken from ACI 530-92/ASCE 5-92, \"Building Code Requirements for Masonry Structures\", Chapter 9. Subjects discussed pertaining to ACI 530/ASCE 5 are: lateral stability; allowable stresses; lateral support; thickness of masonry; bonding; anchorage and miscellaneous requirements. Seismic considerations and material requirements are also included.",
+    "call":"t42",
+    "order":78
+},
+{
+    "name":"Passive Solar Heating with Brick Masonry - Part 1 Introduction ",
+    "file":"https://endicottfiles.com/tn43.pdf",
+    "description":"Brick masonry passive solar energy systems can be used to significantly reduce the use of fossil fuels for heating and cooling buildings. The basic concepts and necessary considerations for the design of passive solar heating systems are discussed. The basic concepts involve the incorporation of the passive solar heating system into the architectural design of the intended use and operation of the building. Consideration of environmental factors is also discussed.",
+    "call":"t43",
+    "order":79
+},
+{
+    "name":"Passive Solar Cooling with Brick Masonry - Part 1 - Introduction ",
+    "file":"https://endicottfiles.com/tn43c.pdf",
+    "description":"Brick masonry passive solar energy systems can be used to significantly reduce the use of fossil fuels for heating and cooling buildings. The concepts of passive solar cooling systems discussed here are simple modifications to passive solar heating systems. For locations where humidity is high, or there is little exterior temperature fluctuation, or applications where low interior design temperatures are required, passive solar cooling may not be viable. Several methods of pre-cooling and the concept of dehumidifying air with these systems are introduced.",
+    "call":"t43c",
+    "order":80
+},
+{
+    "name":"Brick Passive Solar Heating Systems - Part 4 - Material Properties ",
+    "file":"https://endicottfiles.com/tn43d.pdf",
+    "description":"The inherent properties of brick masonry make it one of the most advantageous storage media materials for passive solar energy systems. Brick masonry may be used to provide an aesthetic effect, structural capacity and other design considerations in addition to thermal storage. Most of these inherent properties of brick masonry are already well understood for conventional applications. However, in order to properly use brick masonry as a thermal storage media for passive solar energy systems additional information may be needed by the designer. This additional information has to do with the effective thermal storage of brick masonry.",
+    "call":"t43d",
+    "order":81
+},	
+{
+    "name":"Brick Passive Solar Heating Systems - Part 7 - Details and Construction",
+    "file":"https://endicottfiles.com/tn43g.pdf",
+    "description":"Details and construction of brick masonry for passive solar energy system applications vary only slightly from conventional residential and commercial brick masonry construction. Typical construction details are provided for direct gain and thermal storage wall systems. These details, with slight modifications, are also applicable for attached sunspaces. Construction variations from conventional construction and considerations for compliance with the major model building codes are also discussed.",
+    "call":"t43g",
+    "order":82
+},
+{
+    "name":"Anchor Bolts For Brick Masonry",
+    "file":"https://endicottfiles.com/tn44.pdf",
+    "description":"Anchor bolts are used extensively in brick masonry to make structural attachments and connections. To date, a limited amount of information has been available to aid designers in the selection and design of anchor bolts in brick masonry. This Technical Notes addresses the types of anchor bolts available, detailing of anchor bolt placement and suggested design procedures. A discussion of current and proposed codes and standards is also presented.",
+    "call":"t44",
+    "order":83
+},
+{
+    "name":"Fasteners for Brick Masonry",
+    "file":"https://endicottfiles.com/tn44a.pdf",
+    "description":"Fasteners are used extensively in brick masonry construction to attach fixtures, equipment and other objects. This Technical Notes discusses the different types of fasteners used in brick masonry construction, their applications, appropriate fastener selection based on brick type, fixture weight, environmental exposure and aesthetics.",
+    "call":"t44a",
+    "order":84
+},
+{
+    "name":"Wall Ties for Brick Masonry",
+    "file":"https://endicottfiles.com/tn44b.pdf",
+    "description":"The use of metal ties in brick masonry dates back to loadbearing masonry walls in the 1850's. Historically, the size, spacing and type of ties have been entirely empirical. Over time, ties of various sizes, configurations and adjustability have been developed for loadbearing masonry, cavity walls and brick veneer construction. These ties are used to connect multiple wythes of masonry, often of different materials; anchor masonry veneer to backing systems other than masonry; and connect composite masonry walls. This Technical Notes addresses the selection, specification and installation of wall tie systems for use in brick masonry construction. Information and recommendations are included which address tie configuration, detailing, specifications, structural performance and corrosion resistance.",
+    "call":"t44b",
+    "order":85
+},
+{
+    "name":"Brick Masonry Noise Barrier Walls - Introduction",
+    "file":"https://endicottfiles.com/tn45.pdf",
+    "description":"Because our national highway system has grown significantly over the last few decades, public awareness of traffic noise on neighborhood communities has increased. Neighborhood associations and governmental bodies look for ways to reduce traffic noise without adversely affecting the surrounding environment. A solution to this problem lies in brick masonry noise barrier walls. Brick masonry noise barrier walls can easily blend into the environment and give residential communities protection from unwanted highway noise.",
+    "call":"t45",
+    "order":86
+},
+{
+    "name":"Brick Masonry Noise Barrier Walls - Structural Design",
+    "file":"https://endicottfiles.com/tn45a.pdf",
+    "description":"Rationally designed brick masonry noise barrier walls provide an attractive wall form with reliable structural function. This Technical Notes addresses the structural design of pier and panel, pilaster and panel, and cantilever brick noise harrier walls. Suggested design methodology and design examples are provided. The information presented in this Technical Notes can be applied with slight modifications to the many design schemes and loading demands of noise barrier walls. The result is an attractive noise barrier wall with the durability and versatility inherent in brick masonry structures.",
+    "call":"t45a",
+    "order":87
+},
+{
+    "name":"Maintenance of Brick Masonry ",
+    "file":"https://endicottfiles.com/tn46.pdf",
+    "description":"Even though one of the major advantages of brick masonry construction is durability, periodic inspections and maintenance are needed to maximize the life of brickwork in structures. This Technical Note discusses the elements of suggested inspection programs and describes specific maintenance procedures, including replacement of sealant joints, grouting of mortar joint faces, repointing of mortar joints, removal of plant growth, repair of weeps, replacement of brick, installation of a dampproof course, installation of flashing in existing walls and replacement of wall ties.",
+    "call":"t46",
+    "order":88
+},
+{
+    "name":"Condensation - Prevention and Control",
+    "file":"https://endicottfiles.com/tn47.pdf",
+    "description":"This Technical Note describes a variety of conditions that can cause condensation to occur in brick walls and analytical tools used to determine the likelihood of occurrence. Use of air barriers and vapor retarders to control condensation is discussed.",
+    "call":"t47",
+    "order":89
+},
+{
+    "name":"Sustainability and Brick",
+    "file":"https://endicottfiles.com/tn48.pdf",
+    "description":"This Technical Note discusses sustainability, sustainable design and their relationship to brick manufacturing, use and recycling. Sustainable practices in manufacturing are identified, as are ways to utilize brick as part of sustainable design strategies. This document also identifies ways that brick masonry walls and paving systems can be used toward earning points in the LEED and other green building rating systems.",
+    "call":"t48",
+    "order":90
+}	
+]
+

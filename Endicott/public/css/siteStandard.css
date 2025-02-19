@@ -1,0 +1,219 @@
+body{
+    border:none
+}
+@font-face {
+	font-family: 'Museo-Light';
+	src: url("/Fonts/MuseoSansDisplay-Light.ttf")format("truetype");
+	/* src: url("../fonts/itcLegacySansBook.eot?#iefix") format("embedded-opentype"), url("../fonts/itcLegacySansBook.woff") format("woff"), url("../fonts/itcLegacySansBook.ttf") format("truetype"), url("/fonts/itcLegacySansBook.svg") format("svg");  */
+}
+@font-face {
+	font-family: 'Univers45Light';
+	src: url("/Fonts/univers45light.ttf")format("truetype");
+	/* src: url("../fonts/itcLegacySansBook.eot?#iefix") format("embedded-opentype"), url("../fonts/itcLegacySansBook.woff") format("woff"), url("../fonts/itcLegacySansBook.ttf") format("truetype"), url("/fonts/itcLegacySansBook.svg") format("svg");  */
+}
+@font-face {
+	font-family: 'Univers55Roman';
+	src: url("/Fonts/UniversLTStd.ttf")format("truetype");
+	/* src: url("../fonts/itcLegacySansBook.eot?#iefix") format("embedded-opentype"), url("../fonts/itcLegacySansBook.woff") format("woff"), url("../fonts/itcLegacySansBook.ttf") format("truetype"), url("/fonts/itcLegacySansBook.svg") format("svg");  */
+}
+@font-face {
+	font-family: 'Univers55Oblique';
+	src: url("/Fonts/UniversLTStd-Obl.ttf")format("truetype");
+	/* src: url("../fonts/itcLegacySansBook.eot?#iefix") format("embedded-opentype"), url("../fonts/itcLegacySansBook.woff") format("woff"), url("../fonts/itcLegacySansBook.ttf") format("truetype"), url("/fonts/itcLegacySansBook.svg") format("svg");  */
+}
+:root{
+	--stone:168,169,158;
+}
+.museo-light{
+    font-family: 'Museo-Light';
+	
+}
+.museo-bold{
+    font-family: 'Museo-Light';
+	font-weight:bolder
+}
+.univers-45-light{
+    font-family: 'Univers45Light';
+}
+.univers-55-Roman{
+	font-family:'Univers55Roman';
+}
+.univers-55-Oblique{
+	font-family:'Univers55Oblique';
+}
+.text-stone{
+	color:#A8A99E;
+}
+.text-rock{
+	color: #564B49;
+}
+.ClayText{
+	color:#a24a13
+}
+.faceBrickBox{
+    background-color: #333F48;
+    /* min-height: 250px; */
+    
+}
+.thinBrickBox{
+    background-color: #8a2a2b;
+    min-height: 250px;
+    
+}
+.paverBox{
+    background-color: #9e652e;
+    min-height: 250px;
+	
+    
+}
+.PathwayAggregateBox{
+    background-color: #84754E;
+    min-height: 250px;
+    
+}
+.StandardBox{
+	background-color: #48494b;
+    min-height: 250px;
+}
+.svgWhite{
+	filter: invert(100%);
+	
+	z-index:1;
+}
+.social-circle{
+	width: 30px;
+	height: 30px;
+	padding: 4px;
+	border:solid thin;
+	margin-right:10px;
+	border-radius: 50%;
+	display: inline-block;
+	border-color: black;
+}
+.SocialIcon{
+	
+	object-fit:contain ;
+	
+	
+}
+.imageInvert{
+	filter: invert(100%);
+}
+.belowFold{
+	margin-top: 90vh;
+	background-color: black;
+	
+}
+/* .bg-stone{
+	background-color: rgba(168, 169, 158, 1); 
+} */
+.bg-rock{
+	background-color:#564B49; 
+}
+.bg-stone-50{
+	background-color: rgba(168, 169, 158, 0.5); 
+}
+.bg-stone-25{
+	background-color: rgba(168, 169, 158, 0.25); 
+}
+.bg-white-75{
+	background-color: rgba(255, 255, 255, 0.75);
+}
+.project-container:hover .text-overlay {
+	visibility: visible;
+	opacity: 1;
+  }
+  
+  .text-overlay {
+	visibility: hidden; 
+	opacity: 0; 
+	transition: opacity 1s ease; 
+  }
+  .overflow-x-hidden{
+	overflow-x: hidden;
+  }
+  .fs-7{
+	font-size: .8em;
+  }
+  
+  
+
+  @media (max-width: 767px){
+
+	.faceBrickBox{
+		
+		max-height: 100px; 
+	}
+	.MenuSetByScreenSize{
+		font-size: .8em;
+	}
+	.TextureColor{
+		font-size: .8em;
+	}
+  }
+
+  @media (min-width: 768px){
+
+	.faceBrickBox{
+		min-height: 250px;
+		
+	}
+	.MenuSetByScreenSize{
+		font-size: 1em;
+	}
+	
+
+  }
+
+  .carousel-height{
+	max-height: 800px;
+  }
+  .carousel-control-prev-icon, 
+.carousel-control-next-icon
+ { 
+	background-color: lightgray; /* Set your desired gray color */
+ 
+	border-radius: 25%;
+}
+.menuText{
+	font-size: 130%;
+}
+.PATop{
+	margin-top:1500px;
+}
+.logoLetterSpacing{
+	letter-spacing: 1px;
+}
+.VideoProjectCopy p{
+ margin-bottom: 0.1rem;
+}
+.border-top-dashed{
+	border-top: thick dashed black;
+}
+
+.BoxHold{
+	
+	height: 100%;
+	width: auto;
+	
+}
+.CarouselImage{
+	width:auto;
+	height: 100%;
+}
+
+.HomePageDescription{
+	border:solid red thick;
+}
+
+.Invisi-LugNav{
+ position: fixed;
+ padding-top:10px;
+ top: 0px;
+ width: 100%;
+}
+.news{
+	
+	margin-top: 100vh;
+	
+}

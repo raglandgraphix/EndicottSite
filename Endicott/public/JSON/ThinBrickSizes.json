@@ -1,0 +1,82 @@
+[
+{
+    "Name":"Kingsize",
+    "image":"https://endicottfiles.com/KingSizeThinBrick.jpg",
+    "pdf":"https://endicottfiles.com/KingSizeThinBrick.pdf",
+    "alt":"Image of Kingsize Drawing"
+},
+{
+    "Name":"Roman",
+    "image":"https://endicottfiles.com/RomanThinBrick.jpg",
+    "pdf":"https://endicottfiles.com/RomanThinBrick.pdf",
+    "alt":"Image of Roman Drawing"
+},
+{
+    "Name":"Modular",
+    "image":"https://endicottfiles.com/ModularThinBrick.jpg",
+    "pdf":"https://endicottfiles.com/ModularThinBrick.pdf",
+    "alt":"Image of Modular Drawing"
+},
+{
+    "Name":"Norman",
+    "image":"https://endicottfiles.com/NormanThinBrick.jpg",
+    "pdf":"https://endicottfiles.com/NormanThinBrick.pdf",
+    "alt":"Image of Norman Drawing"
+},
+{
+    "Name":"Closure",
+    "image":"https://endicottfiles.com/ClosureThinBrick.jpg",
+    "pdf":"https://endicottfiles.com/ClosureThinBrick.jpg",
+    "alt":"Image of Closure Drawing"
+},
+{
+    "Name":"Utility",
+    "image":"https://endicottfiles.com/utilityThinBrick.png",
+    "pdf":"https://endicottfiles.com/UtiilityThinBrick.jpg",
+    "alt":"Image of Utility Drawing"
+},
+{
+    "Name":"Triple",
+    "image":"https://endicottfiles.com/TripleThinBrick.jpg",
+    "pdf":"https://endicottfiles.com/TripleThinBrick.pdf",
+    "alt":"Image of Triple Drawing"
+},
+{
+    "Name":"Brick Corner BC1-5/8\" 48",
+    "image":"https://endicottfiles.com/BC1-5_8x48.jpg",
+    "pdf":"https://endicottfiles.com/BC1-5_8x48.pdf",
+    "alt":"Image of Brick Corner Drawing"
+},{
+    "Name":"Brick Corner BC2-1/4\" 48",
+    "image":"https://endicottfiles.com/BC2-1_4x48.jpg",
+    "pdf":"https://endicottfiles.com/BC2-1_4x48.pdf",
+    "alt":"Image of Brick Corner Drawing"
+},{
+    "Name":"Brick Corner BC2-5/8\" 310",
+    "image":"https://endicottfiles.com/BC2-5_8x310.jpg",
+    "pdf":"https://endicottfiles.com/BC2-5_8x310.pdf",
+    "alt":"Image of Triple Drawing"
+},{
+    "Name":"Brick Corner BC448",
+    "image":"https://endicottfiles.com/BC448.jpg",
+    "pdf":"https://endicottfiles.com/BC448.pdf",
+    "alt":"Image of BC448 Drawing"
+},{
+    "Name":"Brick Corner BC1-5/8\" 412",
+    "image":"https://endicottfiles.com/BC1-5_8x412.jpg",
+    "pdf":"https://endicottfiles.com/BC1-5_8x412.pdf",
+    "alt":"Image of BC1-5/8\" 412 Drawing"
+},{
+    "Name":"Brick Corner BC2-1/4\" 412",
+    "image":"https://endicottfiles.com/BC2-1_4x412.jpg",
+    "pdf":"https://endicottfiles.com/BC2-1_4x412.jpg",
+    "alt":"Image of BC2-1/4\" 412 Drawing"
+},{
+    "Name":"Brick Corner BC4412",
+    "image":"https://endicottfiles.com/BC4412.jpg",
+    "pdf":"https://endicottfiles.com/BC4412.pdf",
+    "alt":"Image of BC4412 Drawing"
+}
+
+
+]

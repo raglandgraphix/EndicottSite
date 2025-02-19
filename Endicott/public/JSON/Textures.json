@@ -1,0 +1,76 @@
+[
+    {
+        "id":1,
+        "texture":"Smooth",
+        "description":"The Smooth texture from Endicott complements both traditional and modern designs with its timeless appeal.",
+        "image":"https://endicottfiles.com/Medium_Ironspot_46_Smooth_Face_Brick_Modular.jpg",
+        "altTag":"Endicott Brick with Smooth Texture",
+        "astm216":["FBX","FBS","FBA"],
+        "astm652":["HBX","HBS","HBA"],
+        "AvailableColors":["Desert Ironspot Light","Desert Ironspot Dark","Copper Canyon","Coppertone","Medium Ironspot #77","Medium Ironspot #46","Dark Ironspot","Ravenswood Ironspot","Manganese Ironspot", "Sienna Ironspot","Executive Ironspot","Rose Blend","Red Blend","Burgundy Blend","Ruby Red","Bordeaux Blend","Red Ironspot","Golden Buff","Gray Blend","Sandstone Light","Sandstone Dark","Graphite"]
+    },
+    {
+        "id":2,
+        "texture":"Velour",
+        "description":"Distinctive and inviting, Endicott's Velour texture sets your brickwork apart. Its subtle textured surface creates a unique, handcrafted feel.",
+        "image":"https://endicottfiles.com/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+        "altTag":"Endicott Brick with Velour Texture",
+        "astm216":["FBX","FBS","FBA"],
+        "AvailableColors":["Desert Ironspot Light","Desert Ironspot Dark","Copper Canyon","Coppertone","Medium Ironspot #77","Medium Ironspot #46","Dark Ironspot","Ravenswood Ironspot","Manganese Ironspot", "Sienna Ironspot","Executive Ironspot","Rose Blend","Red Blend","Burgundy Blend","Ruby Red","Bordeaux Blend","Red Ironspot","Golden Buff","Light Gray Blend","Gray Blend","Sandstone Light","Sandstone Dark","Graphite"]
+    },
+    {
+        "id":3,
+        "texture":"Matt",
+        "description":"With a gently textured surface, Endicott's Matt finish enhances the visual appeal of the brick, adding depth and complexity.",
+        "image":"https://endicottfiles.com/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+        "altTag":"Endicott Brick with Matt Texture",
+        "astm216":["FBS","FBA"],
+        "AvailableColors":["Desert Ironspot Light","Desert Ironspot Dark","Copper Canyon","Coppertone","Medium Ironspot #77","Medium Ironspot #46","Manganese Ironspot", "Sienna Ironspot","Executive Ironspot","Rose Blend","Red Blend","Burgundy Blend","Ruby Red","Bordeaux Blend","Golden Buff","Light Gray Blend","Gray Blend","Sandstone Light","Graphite"]
+    },
+    {
+        "id":4,
+        "texture":"Velvetex",
+        "description":"Enhance your project with Endicott's Velvetex texture. This brick finish offers a subtle, velvet-like appearance, creating a surface with visual depth and a pleasing texture.",
+        "image":"https://endicottfiles.com/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+        "altTag":"Endicott Brick with Velvetex Texture",
+        "astm216":["FBS","FBA"],
+        "AvailableColors":["Desert Ironspot Light","Desert Ironspot Dark","Copper Canyon","Coppertone","Medium Ironspot #77","Medium Ironspot #46","Dark Ironspot","Manganese Ironspot","Rose Blend","Red Blend","Ruby Red"]
+    },
+    {
+        "id":5,
+        "texture":"Vertical Score",
+        "description":"Endicott's Vertical Score brick texture, with its striking vertical grooves, creates a dynamic interplay of light and shadow, adding depth and visual interest to any brick facade.",
+        "image":"https://endicottfiles.com/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+        "altTag":"Endicott Brick with Vertical Score Texture",
+        "astm216":["FBS","FBA"],
+        "AvailableColors":["Desert Ironspot Light","Desert Ironspot Dark","Copper Canyon","Coppertone","Medium Ironspot #77","Medium Ironspot #46","Dark Ironspot","Manganese Ironspot", "Sienna Ironspot","Executive Ironspot","Rose Blend","Red Blend","Burgundy Blend","Ruby Red","Bordeaux Blend","Golden Buff","Light Gray Blend","Gray Blend","Sandstone Light","Graphite"]
+    },
+    {
+        "id":6,
+        "texture":"Artisan",
+        "description":"Endicott's Artisan brick texture offers a distinctive, handcrafted look with subtle variations in its surface, making each brick unique.",
+        "image":"https://endicottfiles.com/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+        "altTag":"Endicott Brick with Artisan Texture",
+        "astm216":["FBA"],
+        "AvailableColors":["Copper Canyon","Coppertone","Medium Ironspot #77","Medium Ironspot #46","Dark Ironspot","Manganese Ironspot"]
+    },
+    {
+        "id":7,
+        "texture":"Heritage",
+        "description":"With its intricate, richly textured surface, Endicott's Heritage finish adds depth and character to brickwork, creating a facade with a touch of rustic charm.",
+        "image":"https://endicottfiles.com/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+        "altTag":"Endicott Brick with Heritage Texture",
+        "astm216":["FBS","FBA"],
+        "AvailableColors":["Heritage 46","Heritage 46 No Yellow","Gray Heritage","Orleans Sands","Gray sands","Adobe Sands","Burgundy Sands","Copper Sands","Autumn Sands","Sahara Sands"]
+    },
+    {
+        "id":8,
+        "texture":"Antique",
+        "description":"Endicott's Antique texture offers a refined take on rustic charm, adding a touch of timeless elegance to any brick facade.",
+        "image":"https://endicottfiles.com/Desert-Ironspot-Light-Smooth-Facebrick-Modular-Short.jpg",
+        "altTag":"Endicott Brick with Antique Texture",
+        "astm216":["FBS","FBA"],
+        "AvailableColors":["Gray Sands","Merlot Sands"]
+
+    }
+]

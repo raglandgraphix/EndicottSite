@@ -1,0 +1,561 @@
+[
+	{
+		"productName":"Pavers",
+		"jobName":"Creighton Roundabout",
+		"productType":"pavers",
+		"jobTitle":"CreightonRoundAbout",
+		"description":"Creighton Roundabout in Omaha, Nebraska, featuring a variety of Endicott  pavers in different colors and textures, creating a visually appealing and durable pedestrian walkway.",
+		"altTag":"Image of Creighton Roundabout in Omaha, Nebraska",
+        "colorRange":["Black","Red","Tan"],
+        "products":[
+			{
+			"color":"Manganese Ironspot",
+			"colorSafe":"manganese",
+			"size":"2-5/8\" X 4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":"223974"
+			},
+			{
+			"color":"Burgundy Blend",
+			"colorSafe":"burgundyBlend",
+			"size":"2-5/8\" X 4\" X 8\" Relieved Lugged",
+			"texture":"Wirecut",
+			"qty":"",
+			"orderNum":"223974"
+			},
+			{
+			"color":"Rose Blend",
+			"colorSafe":"roseBlend",
+			"size":"2-5/8\" X 4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":"223974"
+			},
+			{
+			"color":"Medium Ironspot #77",
+			"colorSafe":"mis77",
+			"size":"2-5/8\" X 4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":"223974"
+			},
+			{
+			"color":"Red Blend",
+			"colorSafe":"redBlend",
+			"size":"2-5/8\" X 4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":"223974"
+			}
+
+        ],
+		"location":"602 North 24th Street",
+		"city":"Omaha",
+		"stateLong":"Nebraska",
+		"stateShort":"NE",
+		"gMapsImage":"",
+		"distributor":"",
+		"architect":"",
+		"structuralEngineer":"",
+		"constructionManager":"Linhart Construction Inc.",
+		"facadeEngineer":"",
+		"masonryContractor":"",
+		"jobSize":"",
+		"cost":"",
+		"masonryBudget":"",
+		"completed":"",
+		"jobThumb":"https://endicottfiles.com/Creighton-Roundabout-TowerBox.jpg",
+		"mainPhoto":"https://endicottfiles.com/Creighton-Roundabout-Tower1.jpg",
+		"photoAlbum":["https://endicottfiles.com/Creighton-Roundabout-Tower1.jpg","https://endicottfiles.com/Creighton-Roundabout-Tower2.jpg","https://endicottfiles.com/Creighton-Roundabout-Tower3.jpg","https://endicottfiles.com/Creighton-Roundabout-Tower4.jpg","https://endicottfiles.com/Creighton-Roundabout-Tower5.jpg"]
+	},
+	{
+		"productName":"Pavers",
+		"jobName":"Villanova University Landscape",
+		"productType":"pavers",
+		"jobTitle":"Villanova",
+		"description":"Villanova University Landscape in Villanova, Pennsylvania, featuring a variety of Endicott  pavers in different colors and textures, enhancing the campus's aesthetic appeal and providing durable pedestrian walkways.",
+		"altTag":"Image of Villanova University Landscape in Villanova, Pennsylvania ",
+        "colorRange":["Red","Black","Tan"],
+        "products":[
+			{
+			"color":"Dark Ironspot",
+			"colorSafe":"darkIronspot",
+			"size":"2-5/8\" X 4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Medium Ironspot #46",
+			"colorSafe":"medIS46",
+			"size":"2-5/8\" X 4\" X 8\" Relieved Lugged",
+			"texture":"Velour",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Manganese Ironspot",
+			"colorSafe":"manganese",
+			"size":"2-5/8\" X 4\" X 8\" Permeable",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Medium Ironspot #77",
+			"colorSafe":"mis77",
+			"size":"2-5/8\" X 4\" X 8\" Permeable",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":"222577"
+			}
+
+        ],
+		"location":"800 East Lancaster Avenue",
+		"city":"Villanova",
+		"stateLong":"Pennsylvania",
+		"stateShort":"PA",
+		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d807.996725603596!2d-75.33908891396015!3d40.0347658640956!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x6e7968f5a3707b73!2sBartley+Hall!5e1!3m2!1sen!2sus!4v1528232374480",
+		"distributor":"Belden Tri-State",
+		"architect":"Sikora Wells Appel",
+		"structuralEngineer":"",
+		"constructionManager":"",
+		"facadeEngineer":"",
+		"masonryContractor":"",
+		"jobSize":"",
+		"cost":"",
+		"masonryBudget":"",
+		"completed":"",
+		"jobThumb":"https://endicottfiles.com/VillanovaBox.jpg",
+		"mainPhoto":"assets/pavers/villanova/villanova1.jpg",
+		"photoAlbum":["https://endicottfiles.com/Villanova1.jpg","https://endicottfiles.com/Villanova2.jpg","https://endicottfiles.com/Villanova3.jpg","https://endicottfiles.com/Villanova4.jpg","https://endicottfiles.com/Villanova5.jpg","https://endicottfiles.com/Villanova6.jpg"]
+	},
+	{
+		"productName":"Pavers",
+		"jobName":"Citadel Outlets Mall",
+		"productType":"pavers",
+		"jobTitle":"Citadel",
+		"description":"Citadel Outlets Mall in Los Angeles, California, utilizing a wide range of Endicott  pavers in different colors and textures, creating a visually dynamic and pedestrian-friendly shopping environment.",
+		"altTag":"Image of Citadel Outlets Mall in Los Angeles, California ",
+        "colorRange":["Red","Black","Tan"],
+        "products":[
+			{
+			"color":"Medium Ironspot #46",
+			"colorSafe":"medIS46",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Dark Ironspot",
+			"colorSafe":"darkIronspot",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Medium Ironspot #77",
+			"colorSafe":"mis77",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Bordeaux Blend",
+			"colorSafe":"bordeauxBlend",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Coppertone",
+			"colorSafe":"coppertone",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Copper Canyon",
+			"colorSafe":"copperCanyon",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			}
+
+
+        ],
+                "gotoLocation":"/selectJob.html#?product=pavers&jobTitle=citadel",
+		"location":"100 Citadel Dr.",
+		"city":"Los Angeles",
+		"stateLong":"California",
+		"stateShort":"CA",
+		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1544.2186769452996!2d-118.1536992236264!3d34.007197916744005!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80c2ce5359955555%3A0x4b72bfbfbb1236d8!2sCitadel+Outlets!5e1!3m2!1sen!2sus!4v1528233268038",
+		"distributor":"Thompsons Building Material",
+		"architect":"",
+		"structuralEngineer":"",
+		"constructionManager":"",
+		"facadeEngineer":"",
+		"masonryContractor":"",
+		"jobSize":"",
+		"cost":"",
+		"masonryBudget":"",
+		"completed":"",
+		"jobThumb":"https://endicottfiles.com/CitadelBox.jpg",
+		"mainPhoto":"https://endicottfiles.com/Citadel1.jpg",
+		"photoAlbum":["https://endicottfiles.com/Citadel1.jpg","https://endicottfiles.com/Citadel2.jpg","https://endicottfiles.com/Citadel3.jpg","https://endicottfiles.com/Citadel4.jpg","https://endicottfiles.com/Citadel5.jpg"]
+	},
+	{
+		"productName":"Pavers",
+		"jobName":"Outlets At San Clemente",
+		"productType":"pavers",
+		"jobTitle":"SanClemente",
+		"description":"Outlets At San Clemente in San Clemente, California, featuring a diverse selection of Endicott  pavers in various colors and textures, creating a visually appealing and pedestrian-friendly outdoor shopping experience.",
+		"altTag":"Image of Outlets At San Clemente in San Clemente, California",
+        "colorRange":["Red","Black","Tan"],
+        "products":[
+			{
+			"color":"Medium Ironspot #46",
+			"colorSafe":"medIS46",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Dark Ironspot",
+			"colorSafe":"darkIronspot",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Medium Ironspot #77",
+			"colorSafe":"mis77",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Bordeaux Blend",
+			"colorSafe":"bordeauxBlend",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Rose Blend",
+			"colorSafe":"roseBlend",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Red Blend",
+			"colorSafe":"redBlend",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Coppertone",
+			"colorSafe":"coppertone",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Copper Canyon",
+			"colorSafe":"copperCanyon",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Burgundy Blend",
+			"colorSafe":"burgundyBlend",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			}
+
+
+        ],
+		"location":"101 W Avenida Vista Hermosa",
+		"city":"San Clemente",
+		"stateLong":"California",
+		"stateShort":"CA",
+		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d1854.8872338866531!2d-117.62947209803289!3d33.43962108479829!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x80dcf3f7ad8c9b8b%3A0xb9b2db81e8a6b89c!2sOutlets+at+San+Clemente!5e1!3m2!1sen!2sus!4v1528233435948",
+		"distributor":"Thompsons Building Material",
+		"architect":"",
+		"structuralEngineer":"",
+		"constructionManager":"",
+		"facadeEngineer":"",
+		"masonryContractor":"",
+		"jobSize":"",
+		"cost":"",
+		"masonryBudget":"",
+		"completed":"",
+		"jobThumb":"https://endicottfiles.com/SanClementeBox.jpg",
+		"mainPhoto":"https://endicottfiles.com/SanClemente1.jpg",
+		"photoAlbum":["https://endicottfiles.com/SanClemente1.jpg","https://endicottfiles.com/SanClemente2.jpg","https://endicottfiles.com/SanClemente3.jpg","https://endicottfiles.com/SanClemente4.jpg","https://endicottfiles.com/SanClemente5.jpg"]
+	},
+	{
+		"productName":"Pavers",
+		"jobName":"Outlets At Castle Rock",
+		"productType":"pavers",
+		"jobTitle":"CastleRock",
+		"description":"Outlets At Castle Rock in Castle Rock, Colorado, showcasing a variety of Endicott  pavers in different colors and textures, creating a visually appealing and durable pedestrian walkway.",
+		"altTag":"Image of Outlets At Castle Rock in Castle Rock, Colorado",
+        "colorRange":["Red","Black","Tan"],
+        "products":[
+			{
+			"color":"Medium Ironspot #46",
+			"colorSafe":"medIS46",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Dark Ironspot",
+			"colorSafe":"darkIronspot",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Medium Ironspot #77",
+			"colorSafe":"mis77",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Coppertone",
+			"colorSafe":"coppertone",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			}
+        ],
+		"location":"5050 Factory Shops Blvd #437",
+		"city":"Castle Rock",
+		"stateLong":"Colorado",
+		"stateShort":"CO",
+		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2949.9314336996003!2d-104.87564568486306!3d39.4155889738377!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c9993ebd826ab%3A0xe5c22e325189977a!2sOutlets+at+Castle+Rock!5e1!3m2!1sen!2sus!4v1528233554260",
+		"distributor":"Brick Inc",
+		"architect":"",
+		"structuralEngineer":"",
+		"constructionManager":"",
+		"facadeEngineer":"",
+		"masonryContractor":"",
+		"jobSize":"",
+		"cost":"",
+		"masonryBudget":"",
+		"completed":"",
+		"jobThumb":"https://endicottfiles.com/CastleRockBox.jpg",
+		"mainPhoto":"https://endicottfiles.com/CastleRock1.jpg",
+		"photoAlbum":["https://endicottfiles.com/CastleRock1.jpg","https://endicottfiles.com/CastleRock2.jpg","https://endicottfiles.com/CastleRock3.jpg","https://endicottfiles.com/CastleRock4.jpg","https://endicottfiles.com/CastleRock5.jpg"]
+	},
+	{
+		"productName":"Pavers",
+		"jobName":"Cherry Creek Streetscape",
+		"productType":"pavers",
+		"jobTitle":"CherryCreek",
+		"description":"Cherry Creek Streetscape in Denver, Colorado, featuring a mix of Endicott  pavers in different colors and textures, enhancing the area's aesthetic appeal and providing durable pedestrian walkways.",
+		"altTag":"Image of Cherry Creek Streetscape in Denver, Colorado",
+        "colorRange":["Red","Black","Tan"],
+        "products":[
+			{
+			"color":"Medium Ironspot #46",
+			"colorSafe":"medIS46",
+			"size":"4\" X 8\"",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Coppertone",
+			"colorSafe":"coppertone",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Medium Ironspot #77",
+			"colorSafe":"mis77",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Dark Ironspot",
+			"colorSafe":"darkIronspot",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Manganese Ironspot",
+			"colorSafe":"manganese",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			}
+
+
+        ],
+		"location":"Cherry Creek North",
+		"city":"Denver",
+		"stateLong":"Colorado",
+		"stateShort":"CO",
+		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d734.2584205176685!2d-104.95641227078269!3d39.7194167302709!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x876c7e96865a366f%3A0xc63f3ed9f5816b45!2sClayton+Ln+%26+E+2nd+Ave%2C+Denver%2C+CO+80206!5e1!3m2!1sen!2sus!4v1528233806753",
+		"distributor":"Brick Inc",
+		"architect":"",
+		"structuralEngineer":"",
+		"constructionManager":"",
+		"facadeEngineer":"",
+		"masonryContractor":"",
+		"jobSize":"",
+		"cost":"",
+		"masonryBudget":"",
+		"completed":"",
+		"jobThumb":"https://endicottfiles.com/CherryCreekBox.jpg",
+		"mainPhoto":"https://endicottfiles.com/CherryCreek1.jpg",
+		"photoAlbum":["https://endicottfiles.com/CherryCreek1.jpg","https://endicottfiles.com/CherryCreek2.jpg","https://endicottfiles.com/CherryCreek3.jpg","https://endicottfiles.com/CherryCreek4.jpg","https://endicottfiles.com/CherryCreek5.jpg"]
+	},
+	{
+		"productName":"Pavers",
+		"jobName":"Harley Streetscape",
+		"productType":"pavers",
+		"jobTitle":"HarleyStreetscape",
+		"description":"Harley Streetscape in Fort Worth, Texas, featuring Endicott  pavers in various colors and textures, including Medium Ironspot #46, Medium Ironspot #77, and Manganese Ironspot, creating a visually appealing and pedestrian-friendly urban environment.",
+		"altTag":"Image of Harley Streetscape in Fort Worth, Texas",
+        "colorRange":["Red","Black","Tan"],
+        "products":[
+			{
+			"color":"Medium Ironspot #46",
+			"colorSafe":"medIS46",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Medium Ironspot #77",
+			"colorSafe":"mis77",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Manganese Ironspot",
+			"colorSafe":"manganese",
+			"size":"4\" X 8\" ADA",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			}
+
+
+        ],
+		"location":"",
+		"city":"Fort Worth",
+		"stateLong":"Texas",
+		"stateShort":"TX",
+		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d2157.326364953682!2d-97.36860570082317!3d32.73989836846952!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x864e73c5b3bd72f7%3A0xc70c6a6f44d79596!2sHarley+Ave+%26+Trail+Dr%2C+Fort+Worth%2C+TX+76107!5e1!3m2!1sen!2sus!4v1528234096472",
+		"distributor":"Blackson Brick",
+		"architect":"",
+		"structuralEngineer":"",
+		"constructionManager":"",
+		"facadeEngineer":"",
+		"masonryContractor":"",
+		"jobSize":"",
+		"cost":"",
+		"masonryBudget":"",
+		"completed":"",
+		"jobThumb":"https://endicottfiles.com/HarleyBox.jpg",
+		"mainPhoto":"https://endicottfiles.com/Harley1.jpg",
+		"photoAlbum":["https://endicottfiles.com/Harley1.jpg","https://endicottfiles.com/Harley2.jpg","https://endicottfiles.com/Harley3.jpg","https://endicottfiles.com/Harley4.jpg","https://endicottfiles.com/Harley5.jpg"]
+	},
+	{
+		"productName":"Pavers",
+		"jobName":"Dublin Streetscape",
+		"productType":"pavers",
+		"jobTitle":"DublinStreetscape",
+		"description":"Dublin Streetscape in Dublin, Ohio, showcasing a variety of Endicott  pavers in different colors and textures, including Medium Ironspot #46, Manganese Ironspot, and Dark Ironspot, creating a visually appealing and pedestrian-friendly urban environment.",
+		"altTag":"Image of Dublin Streetscape in Dublin, Ohio",
+        "colorRange":["Red","Black"],
+        "products":[
+			{
+			"color":"Medium Ironspot #46",
+			"colorSafe":"medIS46",
+			"size":"4\" X 8\" Relieved Lugged",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Manganese Ironspot",
+			"colorSafe":"manganese",
+			"size":"4\" X 8\" Square Edge",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			},
+			{
+			"color":"Dark Ironspot",
+			"colorSafe":"darkIronspot",
+			"size":"4\" X 8\" Permeable",
+			"texture":"Wire Cut",
+			"qty":"",
+			"orderNum":""
+			}
+        ],
+		"location":"",
+		"city":"Dublin",
+		"stateLong":"Ohio",
+		"stateShort":"OH",
+		"gMapsImage":"https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d730.1649214088397!2d-83.11017057078197!3d40.10236282451687!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x883892cd13d6b309%3A0xdcd640e5f9bef189!2sBridge+Park+Avenue+%26+Longshore+Street%2C+Dublin%2C+OH+43017!5e1!3m2!1sen!2sus!4v1528235221426",
+		"distributor":"Columbus Coal and Lime",
+		"architect":"",
+		"structuralEngineer":"",
+		"constructionManager":"",
+		"facadeEngineer":"",
+		"masonryContractor":"",
+		"jobSize":"",
+		"cost":"",
+		"masonryBudget":"",
+		"completed":"",
+		"jobThumb":"https://endicottfiles.com/DublinBox.jpg",
+		"mainPhoto":"https://endicottfiles.com/Dublin1.jpg",
+		"photoAlbum":["https://endicottfiles.com/Dublin1.jpg","https://endicottfiles.com/Dublin2.jpg","https://endicottfiles.com/Dublin3.jpg","https://endicottfiles.com/Dublin4.jpg","https://endicottfiles.com/Dublin5.jpg"]
+	}
+
+
+
+
+]
